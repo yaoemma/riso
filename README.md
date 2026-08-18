@@ -2,7 +2,7 @@
 
 Site web du **Réseau Ivoirien des Spécialistes de l'Orientation** — React, Vite et React Router.
 
-Le code source est dans le dossier `riso-react/`. 
+Le code source est à la racine du dépôt (`src/`, `public/`).
 ## Prérequis
 
 - **Node.js 20 ou plus récent** ([nodejs.org](https://nodejs.org/)) — vérifiez avec `node -v`
@@ -12,13 +12,13 @@ Le code source est dans le dossier `riso-react/`.
 ## Installation
 
 ```powershell
-git clone https://github.com/yaoemma/projet_RISO1.git
-cd projet_RISO1/riso-react
+git clone https://github.com/yaoemma/riso.git
+cd riso
 npm install
 npm run dev
 ```
 
-Sous macOS ou Linux, remplacez les commandes par l'équivalent dans votre terminal (`cd riso-react` depuis la racine du dépôt cloné).
+Sous macOS ou Linux, utilisez l'équivalent dans votre terminal depuis la racine du dépôt cloné.
 
 Site local : [http://localhost:5173](http://localhost:5173)
 
@@ -45,17 +45,19 @@ Le build doit se terminer sans erreur. `preview` ouvre le site compilé (port af
 ## Structure
 
 ```
-└── riso-react/
-    ├── public/images/        # Images et médias
-    ├── src/
-    │   ├── App.jsx           # Routes de l'application
-    │   ├── pages/            # Pages (une par URL)
-    │   ├── components/       # Blocs UI (layout, accueil, forum…)
-    │   ├── data/             # Données écoles, universités, forum
-    │   ├── hooks/            # Hooks React (carrousel, forum, scroll)
-    │   ├── utils/            # Helpers (couleurs, initiales)
-    │   └── styles/           # CSS global et forum
-    └── .oxlintrc.json        # Configuration Oxlint
+projet_RISO1/
+├── public/images/        # Images et médias
+├── src/
+│   ├── App.jsx           # Routes de l'application
+│   ├── pages/            # Pages (une par URL)
+│   ├── components/       # Blocs UI (layout, accueil, forum…)
+│   ├── data/             # Données écoles, universités, forum
+│   ├── hooks/            # Hooks React (carrousel, forum, scroll)
+│   ├── utils/            # Helpers (couleurs, initiales)
+│   └── styles/           # CSS global et forum
+├── scripts/              # Générateur du guide Word (optionnel)
+├── package.json
+└── vite.config.js
 ```
 
 ## Pages
@@ -110,7 +112,7 @@ Sources officielles référencées sur la page : [MENA](https://rea.mendob.ci/sy
 
 ## Déploiement
 
-Depuis `riso-react/` :
+Depuis la racine du projet :
 
 ```powershell
 npm run build
