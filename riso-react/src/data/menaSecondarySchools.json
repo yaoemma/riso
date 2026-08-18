@@ -1,0 +1,5952 @@
+[
+  {
+    "id": "college-moderne-d-agnibiliekro",
+    "shortName": "COLLEGE MODERNE D'AGNIBILIEKRO",
+    "name": "COLLEGE MODERNE D'AGNIBILIEKRO",
+    "level": "college",
+    "city": "Abengourou",
+    "location": "1 ABENGOUROU AGNIBILEKRO AGNIBILEKRO AGNIBILEKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-zaranou",
+    "shortName": "COLLEGE MODERNE DE ZARANOU",
+    "name": "COLLEGE MODERNE DE ZARANOU",
+    "level": "college",
+    "city": "Abengourou",
+    "location": "2 ABENGOUROU ABENGOUROU ZARANOU ZARANOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-amelekia",
+    "shortName": "COLLEGE MODERNE D'AMELEKIA",
+    "name": "COLLEGE MODERNE D'AMELEKIA",
+    "level": "college",
+    "city": "Abengourou",
+    "location": "3 ABENGOUROU ABENGOUROU AMELEKIA AMELEKIA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-agnibilekrou",
+    "shortName": "COLLEGE MODERNE D'AGNIBILEKROU",
+    "name": "COLLEGE MODERNE D'AGNIBILEKROU",
+    "level": "college",
+    "city": "Abengourou",
+    "location": "4 ABENGOUROU AGNIBILEKRO AGNIBILEKROU AGNIBILEKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-akoboissue",
+    "shortName": "COLLEGE MODERNE D'AKOBOISSUE",
+    "name": "COLLEGE MODERNE D'AKOBOISSUE",
+    "level": "college",
+    "city": "Abengourou",
+    "location": "5 ABENGOUROU AGNIBILEKRO AKOBOISSUE AKOBOISSUE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dame",
+    "shortName": "COLLEGE MODERNE DE DAME",
+    "name": "COLLEGE MODERNE DE DAME",
+    "level": "college",
+    "city": "Abengourou",
+    "location": "6 ABENGOUROU AGNIBILEKRO DAME DAME",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-diamarakro",
+    "shortName": "COLLEGE MODERNE DE DIAMARAKRO",
+    "name": "COLLEGE MODERNE DE DIAMARAKRO",
+    "level": "college",
+    "city": "Abengourou",
+    "location": "7 ABENGOUROU BETTIE DIAMARAKRO DIAMARAKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dufrebo",
+    "shortName": "COLLEGE MODERNE DE DUFREBO",
+    "name": "COLLEGE MODERNE DE DUFREBO",
+    "level": "college",
+    "city": "Abengourou",
+    "location": "8 ABENGOUROU AGNIBILEKRO DUFREBO DUFREBO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-sankouadiokro",
+    "shortName": "COLLEGE MODERNE DE SANKOUADIOKRO",
+    "name": "COLLEGE MODERNE DE SANKOUADIOKRO",
+    "level": "college",
+    "city": "Abengourou",
+    "location": "9 ABENGOUROU ABENGOUROU SANKOUADIOKRO SANKOUADIOKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-affalikro",
+    "shortName": "COLLEGE MODERNE D'AFFALIKRO",
+    "name": "COLLEGE MODERNE D'AFFALIKRO",
+    "level": "college",
+    "city": "Abengourou",
+    "location": "11 ABENGOUROU ABENGOUROU Sp. NIABLE AFFALIKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-amoriakro",
+    "shortName": "COLLEGE MODERNE D'AMORIAKRO",
+    "name": "COLLEGE MODERNE D'AMORIAKRO",
+    "level": "college",
+    "city": "Abengourou",
+    "location": "12 ABENGOUROU AGNIBILEKRO Sp. DUFFREBO AMORIAKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-abradinou",
+    "shortName": "COLLEGE MODERNE D'ABRADINOU",
+    "name": "COLLEGE MODERNE D'ABRADINOU",
+    "level": "college",
+    "city": "Abengourou",
+    "location": "13 ABENGOUROU BETTIE Sp. BETTIE ABRADINOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-abengourou",
+    "shortName": "COLLEGE MODERNE D'ABENGOUROU",
+    "name": "COLLEGE MODERNE D'ABENGOUROU",
+    "level": "college",
+    "city": "Abengourou",
+    "location": "ABENGOUROU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-cocody-cite-des-arts",
+    "shortName": "CM  COCODY CITE DES ARTS",
+    "name": "COLLEGE MODERNE DE COCODY CITE DES ARTS",
+    "level": "college",
+    "city": "Abidjan",
+    "location": "15 ABIDJAN 1 ABIDJAN ABIDJAN CITE DES ARTS",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "cocody-lycee-technique",
+    "shortName": "COCODY LYCEE TECHNIQUE",
+    "name": "COCODY LYCEE TECHNIQUE",
+    "level": "lycee",
+    "city": "Abidjan",
+    "location": "16 ABIDJAN 1 ABIDJAN ABIDJAN",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de",
+    "shortName": "COLLEGE MODERNE DE",
+    "name": "COLLEGE MODERNE DE",
+    "level": "college",
+    "city": "Abidjan",
+    "location": "COCODY LYCEE TECHNIQUE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "cocody-lycee",
+    "shortName": "COCODY LYCEE",
+    "name": "COCODY LYCEE",
+    "level": "lycee",
+    "city": "Abidjan",
+    "location": "COLLEGE MODERNE DE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-la-cite-du-port",
+    "shortName": "CM  LA CITE DU PORT",
+    "name": "COLLEGE MODERNE DE LA CITE DU PORT",
+    "level": "college",
+    "city": "Abidjan",
+    "location": "18 ABIDJAN 2 ABIDJAN CITE DU PORT CITE DU PORT",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-koumassi-sicogi",
+    "shortName": "COLLEGE MODERNE DE KOUMASSI-SICOGI",
+    "name": "COLLEGE MODERNE DE KOUMASSI-SICOGI",
+    "level": "college",
+    "city": "Abidjan",
+    "location": "KOUMASSI-SICOGI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-marcory-boulevard-du-gabon",
+    "shortName": "CM  MARCORY BOULEVARD DU GAB",
+    "name": "COLLEGE MODERNE DE MARCORY BOULEVARD DU GABON",
+    "level": "college",
+    "city": "Abidjan",
+    "location": "BOULEVARD DU GABON",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bietri",
+    "shortName": "COLLEGE MODERNE DE BIETRI",
+    "name": "COLLEGE MODERNE DE BIETRI",
+    "level": "college",
+    "city": "Abidjan",
+    "location": "21 ABIDJAN 2 ABIDJAN ABIDJAN BIETRI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-andre-latrille-de-port-bouet",
+    "shortName": "CM ANDRE LATRILLE DE PORT-BO",
+    "name": "COLLEGE MODERNE ANDRE LATRILLE DE PORT-BOUET",
+    "level": "college",
+    "city": "Abidjan",
+    "location": "22 ABIDJAN 2 ABIDJAN ABIDJAN PORT-BOUET",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-port-bouet-aeroport",
+    "shortName": "CM  PORT-BOUET AEROPORT",
+    "name": "COLLEGE MODERNE DE PORT-BOUET AEROPORT",
+    "level": "college",
+    "city": "Abidjan",
+    "location": "23 ABIDJAN 2 ABIDJAN ABIDJAN AEROPORT",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-songon",
+    "shortName": "COLLEGE MODERNE DE SONGON",
+    "name": "COLLEGE MODERNE DE SONGON",
+    "level": "college",
+    "city": "Abidjan",
+    "location": "24 ABIDJAN 3 ABIDJAN SONGON SONGON",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-yopougon-sogephia",
+    "shortName": "CM  YOPOUGON SOGEPHIA",
+    "name": "COLLEGE MODERNE DE YOPOUGON SOGEPHIA",
+    "level": "college",
+    "city": "Abidjan",
+    "location": "YOPOUGON SOGEPHIA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-cite-fairmont",
+    "shortName": "CM  CITE FAIRMONT",
+    "name": "COLLEGE MODERNE DE CITE FAIRMONT",
+    "level": "college",
+    "city": "Abidjan",
+    "location": "26 ABIDJAN 3 ABIDJAN ATTECOUBE CITE FAIRMONT",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-abiate",
+    "shortName": "COLLEGE MODERNE D'ABIATE",
+    "name": "COLLEGE MODERNE D'ABIATE",
+    "level": "college",
+    "city": "Abidjan",
+    "location": "27 ABIDJAN 3 ABIDJAN SONGON ABIATE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-oghwapo",
+    "shortName": "COLLEGE MODERNE D'OGHWAPO",
+    "name": "COLLEGE MODERNE D'OGHWAPO",
+    "level": "college",
+    "city": "Abidjan",
+    "location": "28 ABIDJAN 4 ABIDJAN OGHWAPO OGHWAPO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-akoupe-zeudji",
+    "shortName": "COLLEGE MODERNE D'AKOUPE ZEUDJI",
+    "name": "COLLEGE MODERNE D'AKOUPE ZEUDJI",
+    "level": "college",
+    "city": "Abidjan",
+    "location": "29 ABIDJAN 4 ABIDJAN ANYAMA AKOUPE ZEUDJI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-djorogobite",
+    "shortName": "COLLEGE MODERNE DE DJOROGOBITE",
+    "name": "COLLEGE MODERNE DE DJOROGOBITE",
+    "level": "college",
+    "city": "Abidjan",
+    "location": "DJOROGOBITE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-abobo-sogephia",
+    "shortName": "COLLEGE MODERNE D'ABOBO SOGEPHIA",
+    "name": "COLLEGE MODERNE D'ABOBO SOGEPHIA",
+    "level": "college",
+    "city": "Abidjan",
+    "location": "ABOBO SOGEPHIA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-m-bonoua",
+    "shortName": "COLLEGE MODERNE DE M'BONOUA",
+    "name": "COLLEGE MODERNE DE M'BONOUA",
+    "level": "college",
+    "city": "Abidjan",
+    "location": "32 ABIDJAN 4 ABIDJAN ANYAMA M'BONOUA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-brofodoume",
+    "shortName": "COLLEGE MODERNE DE BROFODOUME",
+    "name": "COLLEGE MODERNE DE BROFODOUME",
+    "level": "college",
+    "city": "Abidjan",
+    "location": "BROFODOUME",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-assinie-mafia",
+    "shortName": "COLLEGE MODERNE D'ASSINIE-MAFIA",
+    "name": "COLLEGE MODERNE D'ASSINIE-MAFIA",
+    "level": "college",
+    "city": "ADIAKE",
+    "location": "34 ABOISSO ADIAKE ASSINIE-MAFIA ASSINIE-MAFIA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bongo",
+    "shortName": "COLLEGE MODERNE DE BONGO",
+    "name": "COLLEGE MODERNE DE BONGO",
+    "level": "college",
+    "city": "ADIAKE",
+    "location": "35 ABOISSO GRAND BASSAM BONGO BONGO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-aboisso",
+    "shortName": "COLLEGE MODERNE D'ABOISSO",
+    "name": "COLLEGE MODERNE D'ABOISSO",
+    "level": "college",
+    "city": "GRAND",
+    "location": "36 ABOISSO ABOISSO ABOISSO ABOISSO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-ono",
+    "shortName": "COLLEGE MODERNE D'ONO",
+    "name": "COLLEGE MODERNE D'ONO",
+    "level": "college",
+    "city": "ABOISSO",
+    "location": "37 ABOISSO GRAND BASSAM BONGO ONO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-etuebou",
+    "shortName": "COLLEGE MODERNE D'ETUEBOU",
+    "name": "COLLEGE MODERNE D'ETUEBOU",
+    "level": "college",
+    "city": "GRAND",
+    "location": "38 ABOISSO ADIAKE ETUEBOUE ETUEBOUE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kouakro",
+    "shortName": "COLLEGE MODERNE DE KOUAKRO",
+    "name": "COLLEGE MODERNE DE KOUAKRO",
+    "level": "college",
+    "city": "ADIAKE",
+    "location": "39 ABOISSO ABOISSO KOUAKRO KOUAKORO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nouamou",
+    "shortName": "COLLEGE MODERNE DE NOUAMOU",
+    "name": "COLLEGE MODERNE DE NOUAMOU",
+    "level": "college",
+    "city": "ABOISSO",
+    "location": "40 ABOISSO TIAPOUM NOUAMOU NOUAMOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-adjouan",
+    "shortName": "COLLEGE MODERNE D'ADJOUAN",
+    "name": "COLLEGE MODERNE D'ADJOUAN",
+    "level": "college",
+    "city": "TIAPOUM",
+    "location": "41 ABOISSO ABOISSO ADJOUAN ADJOUAN",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-ketesso",
+    "shortName": "COLLEGE MODERNE DE KETESSO",
+    "name": "COLLEGE MODERNE DE KETESSO",
+    "level": "college",
+    "city": "ABOISSO",
+    "location": "42 ABOISSO ABOISSO BIANOUAN Ketesso",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-yaou",
+    "shortName": "COLLEGE MODERNE DE YAOU",
+    "name": "COLLEGE MODERNE DE YAOU",
+    "level": "college",
+    "city": "ABOISSO",
+    "location": "43 ABOISSO TIAPOUM YAOU YAOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-noe",
+    "shortName": "COLLEGE MODERNE DE NOE",
+    "name": "COLLEGE MODERNE DE NOE",
+    "level": "college",
+    "city": "TIAPOUM",
+    "location": "44 ABOISSO TIAPOUM NOE Noé",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "lycee-d-excellence-de-grand-bassam",
+    "shortName": "LYCEE D’EXCELLENCE DE GRAND ",
+    "name": "LYCEE D’EXCELLENCE DE GRAND BASSAM",
+    "level": "lycee",
+    "city": "GRAND",
+    "location": "GRAND BASSAM (VITRE)",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-mafere",
+    "shortName": "COLLEGE MODERNE DE MAFERE",
+    "name": "COLLEGE MODERNE DE MAFERE",
+    "level": "college",
+    "city": "ABOISSO",
+    "location": "47 ABOISSO ABOISSO Sp. MAFERE MAFERE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-adjouan-mohoua",
+    "shortName": "COLLEGE MODERNE D'ADJOUAN-MOHOUA",
+    "name": "COLLEGE MODERNE D'ADJOUAN-MOHOUA",
+    "level": "college",
+    "city": "ADIAKE",
+    "location": "ADJOUAN-MOHOUA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-adaou",
+    "shortName": "COLLEGE MODERNE D'ADAOU",
+    "name": "COLLEGE MODERNE D'ADAOU",
+    "level": "college",
+    "city": "ABOISSO",
+    "location": "49 ABOISSO ABOISSO Sp. ADAOU ADAOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-aby-abiaty",
+    "shortName": "COLLEGE MODERNE D'ABY-ABIATY",
+    "name": "COLLEGE MODERNE D'ABY-ABIATY",
+    "level": "college",
+    "city": "ABOISSO",
+    "location": "50 ABOISSO ABOISSO S/P ADJOUAN ABY",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-assouinde",
+    "shortName": "COLLEGE MODERNE D'ASSOUINDE",
+    "name": "COLLEGE MODERNE D'ASSOUINDE",
+    "level": "college",
+    "city": "ADIAKE",
+    "location": "ASSOUINDE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-appoisso",
+    "shortName": "COLLEGE MODERNE D'APPOISSO",
+    "name": "COLLEGE MODERNE D'APPOISSO",
+    "level": "college",
+    "city": "ABOISSO",
+    "location": "52 ABOISSO ABOISSO BIANOUAN APPOISSO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bieby",
+    "shortName": "COLLEGE MODERNE DE BIEBY",
+    "name": "COLLEGE MODERNE DE BIEBY",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "YAKASSE-ATTOBROU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-becedi-brignan",
+    "shortName": "COLLEGE MODERNE DE BECEDI-BRIGNAN",
+    "name": "COLLEGE MODERNE DE BECEDI-BRIGNAN",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "COLLEGE MODERNE DE BIEBY",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-abongoua",
+    "shortName": "COLLEGE MODERNE DE ABONGOUA",
+    "name": "COLLEGE MODERNE DE ABONGOUA",
+    "level": "college",
+    "city": "ADZOPE",
+    "location": "YAKASSE-ATTOBROU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-yakasse-me",
+    "shortName": "COLLEGE MODERNE DE YAKASSE-ME",
+    "name": "COLLEGE MODERNE DE YAKASSE-ME",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "56 ADZOPE ADZOPE S/P YAKASSE-ME YAKASSE-ME",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-aboisso-comoe",
+    "shortName": "COLLEGE MODERNE D'ABOISSO-COMOE",
+    "name": "COLLEGE MODERNE D'ABOISSO-COMOE",
+    "level": "college",
+    "city": "ADZOPE",
+    "location": "57 ADZOPE ALEPE ABOISSO-COMOE ABOISSO-COMOE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-becouefin",
+    "shortName": "COLLEGE MODERNE DE BECOUEFIN",
+    "name": "COLLEGE MODERNE DE BECOUEFIN",
+    "level": "college",
+    "city": "AKOUPE",
+    "location": "U 3 2017",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-assikoun",
+    "shortName": "COLLEGE MODERNE D'ASSIKOUN",
+    "name": "COLLEGE MODERNE D'ASSIKOUN",
+    "level": "college",
+    "city": "AKOUPE",
+    "location": "59 ADZOPE AKOUPE BECOUEFIN ASSIKOUN",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "moape-college-moderne-de",
+    "shortName": "| | | |",
+    "name": "| | | | MOAPE- | COLLEGE MODERNE DE |",
+    "level": "college",
+    "city": "AKOUPE",
+    "location": "R 3 2017",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-d-allosso",
+    "shortName": "COLLEGE MODERNE DE D’ALLOSSO",
+    "name": "COLLEGE MODERNE DE D’ALLOSSO",
+    "level": "college",
+    "city": "ALEPE",
+    "location": "U 3 2018",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-boudepe",
+    "shortName": "COLLEGE MODERNE DE BOUDEPE",
+    "name": "COLLEGE MODERNE DE BOUDEPE",
+    "level": "college",
+    "city": "ALEPE",
+    "location": "62 ADZOPE ADZOPE AGOU BOUDEPE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-diangobo-fiasse",
+    "shortName": "COLLEGE MODERNE DE DIANGOBO-FIASSE",
+    "name": "COLLEGE MODERNE DE DIANGOBO-FIASSE",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "DIANGOBO-FIASSE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-diape",
+    "shortName": "COLLEGE MODERNE DE DIAPE",
+    "name": "COLLEGE MODERNE DE DIAPE",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "R 2 2020",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kossandji",
+    "shortName": "COLLEGE MODERNE DE KOSSANDJI",
+    "name": "COLLEGE MODERNE DE KOSSANDJI",
+    "level": "college",
+    "city": "ADZOPE",
+    "location": "65 ADZOPE ALEPE S/P. DANGUIRA KOSSANDJI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-agbaou",
+    "shortName": "COLLEGE MODERNE D’AGBAOU",
+    "name": "COLLEGE MODERNE D’AGBAOU",
+    "level": "college",
+    "city": "AKOUPE",
+    "location": "U 3 2020",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-memni",
+    "shortName": "COLLEGE MODERNE DE MEMNI",
+    "name": "COLLEGE MODERNE DE MEMNI",
+    "level": "college",
+    "city": "AKOUPE",
+    "location": "COLLEGE MODERNE D’AGBAOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-biasso",
+    "shortName": "COLLEGE MODERNE DE BIASSO",
+    "name": "COLLEGE MODERNE DE BIASSO",
+    "level": "college",
+    "city": "ALEPE",
+    "location": "R 3 2020",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bacon",
+    "shortName": "COLLEGE MODERNE DE BACON",
+    "name": "COLLEGE MODERNE DE BACON",
+    "level": "college",
+    "city": "ADZOPE",
+    "location": "R 3 2020",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "lycee-moderne-2-d-akoupe",
+    "shortName": "LYCEE MODERNE 2 D'AKOUPE",
+    "name": "LYCEE MODERNE 2 D'AKOUPE",
+    "level": "lycee",
+    "city": "AKOUPE",
+    "location": "U 4 2020",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "lycee-moderne-de-danguira",
+    "shortName": "LYCEE MODERNE DE DANGUIRA",
+    "name": "LYCEE MODERNE DE DANGUIRA",
+    "level": "lycee",
+    "city": "AKOUPE",
+    "location": "71 ADZOPE ALEPE DANGUIRA DANGUIRA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-grand-alepe",
+    "shortName": "CM  GRAND ALEPE",
+    "name": "COLLEGE MODERNE DE GRAND ALEPE",
+    "level": "college",
+    "city": "ALEPE",
+    "location": "72 ADZOPE ALEPE Sp. ALEPE GRAND-ALEPE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kong-2",
+    "shortName": "CM  KONG 2",
+    "name": "COLLEGE MODERNE DE KONG 2",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "KONG 2",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-andou-mbatto",
+    "shortName": "COLLEGE MODERNE D'ANDOU MBATTO",
+    "name": "COLLEGE MODERNE D'ANDOU MBATTO",
+    "level": "college",
+    "city": "ALEPE",
+    "location": "74 ADZOPE ALEPE Sp. OGHLWAPO ANDOU MBATTO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dzeudji",
+    "shortName": "COLLEGE MODERNE DE DZEUDJI",
+    "name": "COLLEGE MODERNE DE DZEUDJI",
+    "level": "college",
+    "city": "ALEPE",
+    "location": "75 ADZOPE ALEPE Sp. DANGUIRA DZEUDJI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-agboville",
+    "shortName": "COLLEGE MODERNE DE AGBOVILLE",
+    "name": "COLLEGE MODERNE DE AGBOVILLE",
+    "level": "college",
+    "city": "Agboville",
+    "location": "76 AGBOVILLE AGBOVILLE AGBOVILLE AGBOVILLE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-oress-krobou",
+    "shortName": "COLLEGE MODERNE D'ORESS-KROBOU",
+    "name": "COLLEGE MODERNE D'ORESS-KROBOU",
+    "level": "college",
+    "city": "Agboville",
+    "location": "77 AGBOVILLE AGBOVILLE ORESS-KROBOU ORESS-KROBOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-attobrou",
+    "shortName": "COLLEGE MODERNE D'ATTOBROU",
+    "name": "COLLEGE MODERNE D'ATTOBROU",
+    "level": "college",
+    "city": "Agboville",
+    "location": "78 AGBOVILLE AGBOVILLE ATTOBROU ATTOBROU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-cechi",
+    "shortName": "COLLEGE MODERNE DE CECHI",
+    "name": "COLLEGE MODERNE DE CECHI",
+    "level": "college",
+    "city": "Agboville",
+    "location": "79 AGBOVILLE AGBOVILLE S/P. CECHI CECHI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-loviguie",
+    "shortName": "COLLEGE MODERNE DE LOVIGUIE",
+    "name": "COLLEGE MODERNE DE LOVIGUIE",
+    "level": "college",
+    "city": "Agboville",
+    "location": "80 AGBOVILLE AGBOVILLE Sp. LOVIGUIE LOVIGUIE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-aboude",
+    "shortName": "COLLEGE MODERNE D'ABOUDE",
+    "name": "COLLEGE MODERNE D'ABOUDE",
+    "level": "college",
+    "city": "Agboville",
+    "location": "81 AGBOVILLE AGBOVILLE Sp. ABOUDE ABOUDE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-agboville",
+    "shortName": "COLLEGE MODERNE D' AGBOVILLE",
+    "name": "COLLEGE MODERNE D' AGBOVILLE",
+    "level": "college",
+    "city": "Agboville",
+    "location": "82 AGBOVILLE AGBOVILLE AGBOVILLE AGBOVILLE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-guessiguie",
+    "shortName": "COLLEGE MODERNE DE GUESSIGUIE",
+    "name": "COLLEGE MODERNE DE GUESSIGUIE",
+    "level": "college",
+    "city": "Agboville",
+    "location": "83 AGBOVILLE AGBOVILLE Sp. GUESSIGUIE GUESSIGUIE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-grand-yapo",
+    "shortName": "CM  GRAND YAPO",
+    "name": "COLLEGE MODERNE DE GRAND YAPO",
+    "level": "college",
+    "city": "Agboville",
+    "location": "84 AGBOVILLE AGBOVILLE Sp. AGBOVILLE GRAND YAPO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-grand-morie",
+    "shortName": "COLLEGE MODERNE DE GRAND-MORIE",
+    "name": "COLLEGE MODERNE DE GRAND-MORIE",
+    "level": "college",
+    "city": "Agboville",
+    "location": "GRAND-MORIE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-ananguie",
+    "shortName": "COLLEGE MODERNE D'ANANGUIE",
+    "name": "COLLEGE MODERNE D'ANANGUIE",
+    "level": "college",
+    "city": "Agboville",
+    "location": "86 AGBOVILLE AGBOVILLE SP-ANANGUIE ANANGUIE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-goumere",
+    "shortName": "COLLEGE MODERNE DE GOUMERE",
+    "name": "COLLEGE MODERNE DE GOUMERE",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "87 BONDOUKOU BONDOUKOU GOUMERE GOUMERE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-tabagne",
+    "shortName": "COLLEGE MODERNE DE TABAGNE",
+    "name": "COLLEGE MODERNE DE TABAGNE",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "88 BONDOUKOU BONDOUKOU TABAGNE TABAGNE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-appimandoum",
+    "shortName": "COLLEGE MODERNE D'APPIMANDOUM",
+    "name": "COLLEGE MODERNE D'APPIMANDOUM",
+    "level": "college",
+    "city": "Man",
+    "location": "89 BONDOUKOU BONDOUKOU APPIMANDOUM APPIMANDOUM",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-tiedio",
+    "shortName": "COLLEGE MODERNE DE TIEDIO",
+    "name": "COLLEGE MODERNE DE TIEDIO",
+    "level": "college",
+    "city": "Man",
+    "location": "90 BONDOUKOU TANDA TIEDIO TIEDIO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bondo",
+    "shortName": "COLLEGE MODERNE DE BONDO",
+    "name": "COLLEGE MODERNE DE BONDO",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "U 3 2013",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-assindi",
+    "shortName": "COLLEGE MODERNE D'ASSINDI",
+    "name": "COLLEGE MODERNE D'ASSINDI",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "COLLEGE MODERNE DE BONDO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gbanhui",
+    "shortName": "COLLEGE MODERNE DE GBANHUI",
+    "name": "COLLEGE MODERNE DE GBANHUI",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "R 2 2015",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-guiende",
+    "shortName": "COLLEGE MODERNE DE GUIENDE",
+    "name": "COLLEGE MODERNE DE GUIENDE",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "94 BONDOUKOU TANDA TANDA GUIENDE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-hiango",
+    "shortName": "COLLEGE MODERNE DE Hiango",
+    "name": "COLLEGE MODERNE DE Hiango",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "95 BONDOUKOU TRANSUA ASSUEFFRY Hiango",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kokomian",
+    "shortName": "COLLEGE MODERNE DE KOKOMIAN",
+    "name": "COLLEGE MODERNE DE KOKOMIAN",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "R 2 2015",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kotogouanda",
+    "shortName": "COLLEGE MODERNE DE KOTOGOUANDA",
+    "name": "COLLEGE MODERNE DE KOTOGOUANDA",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "97 BONDOUKOU KOUN-FAO KOTOGOUANDA KOTOGOUANDA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kouassi-n-dawa",
+    "shortName": "COLLEGE MODERNE DE KOUASSI-N'DAWA",
+    "name": "COLLEGE MODERNE DE KOUASSI-N'DAWA",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "98 BONDOUKOU BONDOUKOU BONDOUKOU KOUASSI-N'DAWA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-namassi",
+    "shortName": "COLLEGE MODERNE DE Namassi",
+    "name": "COLLEGE MODERNE DE Namassi",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "R 2 2015",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-pritti-2",
+    "shortName": "CM  PRITTI 2",
+    "name": "COLLEGE MODERNE DE PRITTI 2",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "100 BONDOUKOU TRANSUA TRANSUA PRITTI 2",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-tambi",
+    "shortName": "COLLEGE MODERNE DE TAMBI",
+    "name": "COLLEGE MODERNE DE TAMBI",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "R 2 2015",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de",
+    "shortName": "| | | |",
+    "name": "| | | | COLLEGE MODERNE DE | | | | | |",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "R 2 2015",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-sorobango",
+    "shortName": "COLLEGE MODERNE DE SOROBANGO",
+    "name": "COLLEGE MODERNE DE SOROBANGO",
+    "level": "college",
+    "city": "Man",
+    "location": "U 3 2016",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-tienkoikro",
+    "shortName": "COLLEGE MODERNE DE TIENKOIKRO",
+    "name": "COLLEGE MODERNE DE TIENKOIKRO",
+    "level": "college",
+    "city": "Man",
+    "location": "COLLEGE MODERNE DE SOROBANGO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-modernede-kouassia-nanguini",
+    "shortName": "COLLEGE MODERNEDE KOUASSIA-NANGUINI",
+    "name": "COLLEGE MODERNEDE KOUASSIA-NANGUINI",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "KOUASSIA-NANGUINI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-tagadi",
+    "shortName": "COLLEGE MODERNE DE TAGADI",
+    "name": "COLLEGE MODERNE DE TAGADI",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "U 3 2018",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "bandakagni-college-moderne-de",
+    "shortName": "| | | BANDAKAGNI-",
+    "name": "| | | BANDAKAGNI- | COLLEGE MODERNE DE | | | | | |",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "U 3 2021",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bondoukou",
+    "shortName": "COLLEGE MODERNE DE BONDOUKOU",
+    "name": "COLLEGE MODERNE DE BONDOUKOU",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "109 BONDOUKOU BONDOUKOU Sp. BONDOUKOU BONDOUKOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dadiasse",
+    "shortName": "COLLEGE MODERNE DE DADIASSE",
+    "name": "COLLEGE MODERNE DE DADIASSE",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "110 BONDOUKOU TRANSUA Sp. ASSUEFRY DADIASSE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dimandougou",
+    "shortName": "COLLEGE MODERNE DE DIMANDOUGOU",
+    "name": "COLLEGE MODERNE DE DIMANDOUGOU",
+    "level": "college",
+    "city": "Man",
+    "location": "DIMANDOUGOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-flakiedougou",
+    "shortName": "COLLEGE MODERNE DE FLAKIEDOUGOU",
+    "name": "COLLEGE MODERNE DE FLAKIEDOUGOU",
+    "level": "college",
+    "city": "Man",
+    "location": "112 BONDOUKOU BONDOUKOU Sp. LAOUDI-BA FLAKIEDOUGOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nagafou",
+    "shortName": "COLLEGE MODERNE DE NAGAFOU",
+    "name": "COLLEGE MODERNE DE NAGAFOU",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "113 BONDOUKOU TANDA Sp. TANDA NAGAFOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-tefrodouo",
+    "shortName": "COLLEGE MODERNE DE TEFRODOUO",
+    "name": "COLLEGE MODERNE DE TEFRODOUO",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "114 BONDOUKOU BONDOUKOU S/P LAOUDI-BA TEFRODOUO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-diamba",
+    "shortName": "COLLEGE MODERNE DE DIAMBA",
+    "name": "COLLEGE MODERNE DE DIAMBA",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "115 BONDOUKOU TANDA DIAMBA DIAMBA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-boahia",
+    "shortName": "COLLEGE MODERNE DE BOAHIA",
+    "name": "COLLEGE MODERNE DE BOAHIA",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "116 BONDOUKOU KOUN-FAO BOAHIA BOAHIA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kotobi",
+    "shortName": "COLLEGE MODERNE DE KOTOBI",
+    "name": "COLLEGE MODERNE DE KOTOBI",
+    "level": "college",
+    "city": "Bondoukou",
+    "location": "117 BONGOUANOU ARRAH KOTOBI KOTOBI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-agnia",
+    "shortName": "COLLEGE MODERNE D'AGNIA",
+    "name": "COLLEGE MODERNE D'AGNIA",
+    "level": "college",
+    "city": "ARRAH",
+    "location": "118 BONGOUANOU M'BATTO MBATTO AGNIA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-ande",
+    "shortName": "COLLEGE MODERNE D'ANDE",
+    "name": "COLLEGE MODERNE D'ANDE",
+    "level": "college",
+    "city": "MBATTO",
+    "location": "119 BONGOUANOU BONGOUANOU ANDE ANDE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kregbe",
+    "shortName": "COLLEGE MODERNE DE KREGBE",
+    "name": "COLLEGE MODERNE DE KREGBE",
+    "level": "college",
+    "city": "BONGOUANOU",
+    "location": "120 BONGOUANOU ARRAH KREGBE KREGBE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-n-guessankro",
+    "shortName": "COLLEGE MODERNE DE N'GUESSANKRO",
+    "name": "COLLEGE MODERNE DE N'GUESSANKRO",
+    "level": "college",
+    "city": "ARRAH",
+    "location": "121 BONGOUANOU BONGOUANOU N'GUESSANKRO N'GUESSANKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bouaffoukro",
+    "shortName": "COLLEGE MODERNE DE BOUAFFOUKRO",
+    "name": "COLLEGE MODERNE DE BOUAFFOUKRO",
+    "level": "college",
+    "city": "BONGOUANOU",
+    "location": "122 BONGOUANOU M'BATTO S/P ASSAHARA BOUAFFOUKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-assie-koumassi",
+    "shortName": "COLLEGE MODERNE DE ASSIE-KOUMASSI",
+    "name": "COLLEGE MODERNE DE ASSIE-KOUMASSI",
+    "level": "college",
+    "city": "Koumassi",
+    "location": "ASSIE-KOUMASSI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-brou-akpaoussou",
+    "shortName": "COLLEGE MODERNE DE BROU-AKPAOUSSOU",
+    "name": "COLLEGE MODERNE DE BROU-AKPAOUSSOU",
+    "level": "college",
+    "city": "Koumassi",
+    "location": "BROU-AKPAOUSSOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-2-de-bongouanou",
+    "shortName": "CM 2 DE BONGOUANOU",
+    "name": "COLLEGE MODERNE 2 DE BONGOUANOU",
+    "level": "college",
+    "city": "BONGOUANOU",
+    "location": "BONGOUANOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-serebissou",
+    "shortName": "COLLEGE MODERNE DE SEREBISSOU",
+    "name": "COLLEGE MODERNE DE SEREBISSOU",
+    "level": "college",
+    "city": "MBATTO",
+    "location": "126 BONGOUANOU M'BATTO Sp. TIEMELEKRO SEREBISSOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-assaouffoue",
+    "shortName": "COLLEGE MODERNE DE ASSAOUFFOUE",
+    "name": "COLLEGE MODERNE DE ASSAOUFFOUE",
+    "level": "college",
+    "city": "MBATTO",
+    "location": "127 BONGOUANOU BONGOUANOU BONGOUANOU ASSAOUFFOUE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-ahounien-foutou",
+    "shortName": "CM  AHOUNIEN FOUTOU",
+    "name": "COLLEGE MODERNE DE AHOUNIEN FOUTOU",
+    "level": "college",
+    "city": "BONGOUANOU",
+    "location": "AHOUNIEN FOUTOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-manfla",
+    "shortName": "COLLEGE MODERNE DE MANFLA",
+    "name": "COLLEGE MODERNE DE MANFLA",
+    "level": "college",
+    "city": "Man",
+    "location": "R 3 2014",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bazre",
+    "shortName": "COLLEGE MODERNE DE BAZRE",
+    "name": "COLLEGE MODERNE DE BAZRE",
+    "level": "college",
+    "city": "Man",
+    "location": "COLLEGE MODERNE DE MANFLA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-iriefla",
+    "shortName": "COLLEGE MODERNE D'Iriéfla",
+    "name": "COLLEGE MODERNE D'Iriéfla",
+    "level": "college",
+    "city": "Man",
+    "location": "U 4 2015",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kouetinfla",
+    "shortName": "COLLEGE MODERNE DE KOUETINFLA",
+    "name": "COLLEGE MODERNE DE KOUETINFLA",
+    "level": "college",
+    "city": "ZUENOULA",
+    "location": "132 BOUAFLE SINFRA KOUETINFTA KOUETINFLA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kanzra",
+    "shortName": "COLLEGE MODERNE DE KANZRA",
+    "name": "COLLEGE MODERNE DE KANZRA",
+    "level": "college",
+    "city": "SINFRA",
+    "location": "133 BOUAFLE ZUENOULA S/P ZUENOULA KANZRA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-sucrivoire",
+    "shortName": "COLLEGE MODERNE DE SUCRIVOIRE",
+    "name": "COLLEGE MODERNE DE SUCRIVOIRE",
+    "level": "college",
+    "city": "ZUENOULA",
+    "location": "R 4 2016",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gohounfla",
+    "shortName": "COLLEGE MODERNE DE GOHOUNFLA",
+    "name": "COLLEGE MODERNE DE GOHOUNFLA",
+    "level": "college",
+    "city": "ZUENOULA",
+    "location": "135 BOUAFLE ZUENOULA GOHITAFLA GOHOUNFLA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-zaguieta",
+    "shortName": "COLLEGE MODERNE DE ZAGUIETA",
+    "name": "COLLEGE MODERNE DE ZAGUIETA",
+    "level": "college",
+    "city": "ZUENOULA",
+    "location": "136 BOUAFLE BOUAFLE ZAGUIETA ZAGUIETA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-blanfla",
+    "shortName": "COLLEGE MODERNE DE BLANFLA",
+    "name": "COLLEGE MODERNE DE BLANFLA",
+    "level": "college",
+    "city": "BOUAFLE",
+    "location": "R 4 2018",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-n-douffoukankro",
+    "shortName": "COLLEGE MODERNE DE N'DOUFFOUKANKRO",
+    "name": "COLLEGE MODERNE DE N'DOUFFOUKANKRO",
+    "level": "college",
+    "city": "BOUAFLE",
+    "location": "RO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-maminigui",
+    "shortName": "COLLEGE MODERNE DE MAMINIGUI",
+    "name": "COLLEGE MODERNE DE MAMINIGUI",
+    "level": "college",
+    "city": "BOUAFLE",
+    "location": "140 BOUAFLE GOHITAFLA Sp. MAMINIGUI MAMINIGUI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-paoufla",
+    "shortName": "COLLEGE MODERNE DE PAOUFLA",
+    "name": "COLLEGE MODERNE DE PAOUFLA",
+    "level": "college",
+    "city": "GOHITAFLA",
+    "location": "U 2 2022",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-zanzra",
+    "shortName": "COLLEGE MODERNE DE ZANZRA",
+    "name": "COLLEGE MODERNE DE ZANZRA",
+    "level": "college",
+    "city": "BONON",
+    "location": "U 4 2022",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gofla",
+    "shortName": "COLLEGE MODERNE DE GOFLA",
+    "name": "COLLEGE MODERNE DE GOFLA",
+    "level": "college",
+    "city": "ZUENOULA",
+    "location": "144 BOUAFLE BONON S/P ZAGUIETA GOFLA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "145-bouafle-bouafle-n-douffoukank-nangrekro-college-moderne-",
+    "shortName": "| 145 | BOUAFLE",
+    "name": "| 145 | BOUAFLE | BOUAFLE | N'DOUFFOUKANK | NANGREKRO | COLLEGE MODERNE DE | R | 2 | 2024 |",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "| --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-voueboufla",
+    "shortName": "COLLEGE MODERNE DE VOUEBOUFLA",
+    "name": "COLLEGE MODERNE DE VOUEBOUFLA",
+    "level": "college",
+    "city": "ZUENOULA",
+    "location": "146 BOUAFLE ZUENOULA S/P VOUEBOUFLA VOUEBOUFLA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bouake",
+    "shortName": "COLLEGE MODERNE DE BOUAKE",
+    "name": "COLLEGE MODERNE DE BOUAKE",
+    "level": "college",
+    "city": "ZUENOULA",
+    "location": "147 BOUAKE 1 BOUAKE BOUAKE BOUAKE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-irdo",
+    "shortName": "COLLEGE MODERNE D'IRDO",
+    "name": "COLLEGE MODERNE D'IRDO",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "BOUAKE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-mamini",
+    "shortName": "COLLEGE MODERNE DE MAMINI",
+    "name": "COLLEGE MODERNE DE MAMINI",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "149 BOUAKE 1 BOUAKE S/P BROBO MAMINI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-tieple",
+    "shortName": "COLLÈGE MODERNE DE TIEPLE",
+    "name": "COLLÈGE MODERNE DE TIEPLE",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "150 BOUAKE 1 BOUAKE S/P BOUAKE TIEPLE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bodokro",
+    "shortName": "COLLEGE MODERNE DE BODOKRO",
+    "name": "COLLEGE MODERNE DE BODOKRO",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "151 BOUAKE 2 BEOUMI BODOKRO BODOKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-languibonou",
+    "shortName": "COLLEGE MODERNE DE LANGUIBONOU",
+    "name": "COLLEGE MODERNE DE LANGUIBONOU",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "152 BOUAKE 2 BOTRO LANGUIBONOU LANGUIBONOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-ayaou-sokpa",
+    "shortName": "COLLEGE MODERNE D'Ayaou Sokpa",
+    "name": "COLLEGE MODERNE D'Ayaou Sokpa",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "Ayaou Sokpa",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bourebo",
+    "shortName": "COLLEGE MODERNE DE BOUREBO",
+    "name": "COLLEGE MODERNE DE BOUREBO",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "154 BOUAKE 2 BEOUMI KONDROBO BOUREBO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-sran-bodossou",
+    "shortName": "COLLEGE MODERNE DE SRAN-BODOSSOU",
+    "name": "COLLEGE MODERNE DE SRAN-BODOSSOU",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "155 BOUAKE 2 SAKASSOU S/P. AYAOU-SRAN SRAN-BODOSSOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dibri-asrikro",
+    "shortName": "COLLEGE MODERNE DE DIBRI-ASRIKRO",
+    "name": "COLLEGE MODERNE DE DIBRI-ASRIKRO",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "DIBRI-ASRIKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-yablassou",
+    "shortName": "COLLEGE MODERNE DE YABLASSOU",
+    "name": "COLLEGE MODERNE DE YABLASSOU",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "157 BOUAKE 2 SAKASSOU Com. SAKASSOU YABLASSOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-alloko-djekro",
+    "shortName": "COLLEGE MODERNE D'ALLOKO-DJEKRO",
+    "name": "COLLEGE MODERNE D'ALLOKO-DJEKRO",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "158 BOUAKE 2 SAKASSOU Com. SAKASSOU ALLOKO-DJEKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-assandre",
+    "shortName": "COLLEGE MODERNE D'ASSANDRE",
+    "name": "COLLEGE MODERNE D'ASSANDRE",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "159 BOUAKE 2 SAKASSOU Sp. SAKASSOU ASSANDRE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-souafoue-djahan",
+    "shortName": "COLLEGE MODERNE DE SOUAFOUE-DJAHAN",
+    "name": "COLLEGE MODERNE DE SOUAFOUE-DJAHAN",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "SOUAFOUE-DJAHAN",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-ando-kekrenou",
+    "shortName": "CM  ANDO KEKRENOU",
+    "name": "COLLEGE MODERNE DE ANDO KEKRENOU",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "ANDO KEKRENOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-ando-ble",
+    "shortName": "COLLEGE MODERNE D'ANDO-BLE",
+    "name": "COLLEGE MODERNE D'ANDO-BLE",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "162 BOUAKE 2 SAKASSOU Sp. SAKASSOU ANDO-BLE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-ando-fouebonou",
+    "shortName": "COLLEGE MODERNE D'ANDO-FOUEBONOU",
+    "name": "COLLEGE MODERNE D'ANDO-FOUEBONOU",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "ANDO-FOUEBONOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-adjougouansou",
+    "shortName": "COLLEGE MODERNE DE ADJOUGOUANSOU",
+    "name": "COLLEGE MODERNE DE ADJOUGOUANSOU",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "ADJOUGOUANSO U",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-goliblenou",
+    "shortName": "COLLEGE MODERNE DE GOLIBLENOU",
+    "name": "COLLEGE MODERNE DE GOLIBLENOU",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "165 BOUAKE 2 SAKASSOU COM. SAKASSOU GOLIBLENOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-koblekro",
+    "shortName": "COLLEGE MODERNE DE KOBLEKRO",
+    "name": "COLLEGE MODERNE DE KOBLEKRO",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "166 BOUAKE 2 BOUAKE S/P BOUAKE KOBLEKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-krofoinsou",
+    "shortName": "COLLEGE MODERNE DE KROFOINSOU",
+    "name": "COLLEGE MODERNE DE KROFOINSOU",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "167 BOUAKE 2 BOTRO S/P KROFOINSOU KROFOINSOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-n-dakro",
+    "shortName": "COLLEGE MODERNE DE N'DAKRO",
+    "name": "COLLEGE MODERNE DE N'DAKRO",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "168 BOUAKE 2 BEOUMI S/P BODOKRO N'DAKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-sinzekro",
+    "shortName": "COLLEGE MODERNE DE SINZEKRO",
+    "name": "COLLEGE MODERNE DE SINZEKRO",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "170 BOUAKE 2 BOTRO S/P DIABO SINZEKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-sokobo",
+    "shortName": "COLLEGE MODERNE DE SOKOBO",
+    "name": "COLLEGE MODERNE DE SOKOBO",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "171 BOUAKE 2 SAKASSOU S/P SAKASSOU SOKOBO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-doropo",
+    "shortName": "COLLEGE MODERNE DE DOROPO",
+    "name": "COLLEGE MODERNE DE DOROPO",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "172 BOUNA DOROPO DOROPO DOROPO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bouna",
+    "shortName": "COLLEGE MODERNE DE BOUNA",
+    "name": "COLLEGE MODERNE DE BOUNA",
+    "level": "college",
+    "city": "DOROPO",
+    "location": "173 BOUNA BOUNA BOUNA BOUNA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-tehini",
+    "shortName": "COLLEGE MODERNE DE TEHINI",
+    "name": "COLLEGE MODERNE DE TEHINI",
+    "level": "college",
+    "city": "BOUNA",
+    "location": "174 BOUNA TEHINI TEHINI TEHINI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bouko",
+    "shortName": "COLLEGE MODERNE DE BOUKO",
+    "name": "COLLEGE MODERNE DE BOUKO",
+    "level": "college",
+    "city": "TEHINI",
+    "location": "175 BOUNA BOUNA BOUNA BOUKO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kotouba",
+    "shortName": "COLLEGE MODERNE DE KOTOUBA",
+    "name": "COLLEGE MODERNE DE KOTOUBA",
+    "level": "college",
+    "city": "BOUNA",
+    "location": "176 BOUNA NASSIAN BOUNA KOTOUBA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-youndouo",
+    "shortName": "COLLEGE MODERNE DE YOUNDOUO",
+    "name": "COLLEGE MODERNE DE YOUNDOUO",
+    "level": "college",
+    "city": "NASSIAN",
+    "location": "177 BOUNA BOUNA BOUNA YOUNDOUO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-ondefidouo",
+    "shortName": "COLLEGE MODERNE D'ONDEFIDOUO",
+    "name": "COLLEGE MODERNE D'ONDEFIDOUO",
+    "level": "college",
+    "city": "BOUNA",
+    "location": "178 BOUNA BOUNA BOUNA ONDEFIDOUO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-banvayo",
+    "shortName": "COLLEGE MODERNE DE BANVAYO",
+    "name": "COLLEGE MODERNE DE BANVAYO",
+    "level": "college",
+    "city": "BOUNA",
+    "location": "179 BOUNA NASSIAN NASSIAN BANVAYO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-tougbo",
+    "shortName": "COLLEGE MODERNE DE TOUGBO",
+    "name": "COLLEGE MODERNE DE TOUGBO",
+    "level": "college",
+    "city": "NASSIAN",
+    "location": "180 BOUNA TEHINI TOUGBO TOUGBO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-sominasse",
+    "shortName": "COLLEGE MODERNE DE SOMINASSE",
+    "name": "COLLEGE MODERNE DE SOMINASSE",
+    "level": "college",
+    "city": "TEHINI",
+    "location": "181 BOUNA NASSIAN S/P SOMINASSE SOMINASSE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-yele",
+    "shortName": "COLLEGE MODERNE DE YELE",
+    "name": "COLLEGE MODERNE DE YELE",
+    "level": "college",
+    "city": "NASSIAN",
+    "location": "182 BOUNDIALI BOUNDIALI KASSERE YELE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-ganaoni",
+    "shortName": "COLLEGE MODERNE DE GANAONI",
+    "name": "COLLEGE MODERNE DE GANAONI",
+    "level": "college",
+    "city": "BOUNDIALI",
+    "location": "183 BOUNDIALI BOUNDIALI BOUNDIALI GANAONI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kebi",
+    "shortName": "COLLEGE MODERNE DE KEBI",
+    "name": "COLLEGE MODERNE DE KEBI",
+    "level": "college",
+    "city": "BOUNDIALI",
+    "location": "184 BOUNDIALI BOUNDIALI BOUNDIALI KEBI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-mahale",
+    "shortName": "COLLEGE MODERNE DE MAHALE",
+    "name": "COLLEGE MODERNE DE MAHALE",
+    "level": "college",
+    "city": "BOUNDIALI",
+    "location": "185 BOUNDIALI KOUTO GBON MAHALE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-tounvre",
+    "shortName": "COLLEGE MODERNE DE TOUNVRE",
+    "name": "COLLEGE MODERNE DE TOUNVRE",
+    "level": "college",
+    "city": "KOUTO",
+    "location": "186 BOUNDIALI KOUTO GBON TOUNVRE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dembasso",
+    "shortName": "COLLEGE MODERNE DE DEMBASSO",
+    "name": "COLLEGE MODERNE DE DEMBASSO",
+    "level": "college",
+    "city": "KOUTO",
+    "location": "187 BOUNDIALI KOUTO KOLIA DEMBASSO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-sianhala",
+    "shortName": "COLLEGE MODERNE DE SIANHALA",
+    "name": "COLLEGE MODERNE DE SIANHALA",
+    "level": "college",
+    "city": "KOUTO",
+    "location": "188 BOUNDIALI KOUTO KOUTO SIANHALA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-tindara",
+    "shortName": "COLLEGE MODERNE DE TINDARA",
+    "name": "COLLEGE MODERNE DE TINDARA",
+    "level": "college",
+    "city": "KOUTO",
+    "location": "189 BOUNDIALI KOUTO KOUTO TINDARA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kanakono",
+    "shortName": "COLLEGE MODERNE DE KANAKONO",
+    "name": "COLLEGE MODERNE DE KANAKONO",
+    "level": "college",
+    "city": "KOUTO",
+    "location": "190 BOUNDIALI TENGRELA KANAKONO KANAKONO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bolona",
+    "shortName": "COLLEGE MODERNE DE BOLONA",
+    "name": "COLLEGE MODERNE DE BOLONA",
+    "level": "college",
+    "city": "TENGRELA",
+    "location": "191 BOUNDIALI TENGRELA TENGRELA BOLONA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-landiougou",
+    "shortName": "COLLEGE MODERNE DE LANDIOUGOU",
+    "name": "COLLEGE MODERNE DE LANDIOUGOU",
+    "level": "college",
+    "city": "TENGRELA",
+    "location": "192 BOUNDIALI BOUNDIALI KASSERE LANDIOUGOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-neguepie",
+    "shortName": "COLLEGE MODERNE DE NEGUEPIE",
+    "name": "COLLEGE MODERNE DE NEGUEPIE",
+    "level": "college",
+    "city": "BOUNDIALI",
+    "location": "193 BOUNDIALI TENGRELA TENGRELA NEGUEPIE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-blessegue",
+    "shortName": "COLLEGE MODERNE DE BLESSEGUE",
+    "name": "COLLEGE MODERNE DE BLESSEGUE",
+    "level": "college",
+    "city": "TENGRELA",
+    "location": "194 BOUNDIALI KOUTO BLESSEGUE BLESSEGUE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-n-deou",
+    "shortName": "COLLEGE MODERNE DE N'DEOU",
+    "name": "COLLEGE MODERNE DE N'DEOU",
+    "level": "college",
+    "city": "KOUTO",
+    "location": "195 BOUNDIALI KOUTO SIANHALA N'DEOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-sissedougou",
+    "shortName": "COLLEGE MODERNE DE SISSEDOUGOU",
+    "name": "COLLEGE MODERNE DE SISSEDOUGOU",
+    "level": "college",
+    "city": "KOUTO",
+    "location": "196 BOUNDIALI BOUNDIALI GANAONI SISSEDOUGOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-zaguinasso",
+    "shortName": "COLLEGE MODERNE DE ZAGUINASSO",
+    "name": "COLLEGE MODERNE DE ZAGUINASSO",
+    "level": "college",
+    "city": "BOUNDIALI",
+    "location": "197 BOUNDIALI KOUTO KOUTO ZAGUINASSO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-san",
+    "shortName": "COLLEGE MODERNE DE SAN",
+    "name": "COLLEGE MODERNE DE SAN",
+    "level": "college",
+    "city": "KOUTO",
+    "location": "198 BOUNDIALI TENGRELA S/P. TENGRELA SAN",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-papara",
+    "shortName": "COLLEGE MODERNE DE PAPARA",
+    "name": "COLLEGE MODERNE DE PAPARA",
+    "level": "college",
+    "city": "TENGRELA",
+    "location": "199 BOUNDIALI TENGRELA Sp. PAPARA PAPARA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-debete",
+    "shortName": "COLLEGE MODERNE DE DEBETE",
+    "name": "COLLEGE MODERNE DE DEBETE",
+    "level": "college",
+    "city": "TENGRELA",
+    "location": "200 BOUNDIALI TENGRELA SP. DEBETE DEBETE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-2-de-boundiali",
+    "shortName": "CM 2 DE BOUNDIALI",
+    "name": "COLLEGE MODERNE 2 DE BOUNDIALI",
+    "level": "college",
+    "city": "TENGRELA",
+    "location": "201 BOUNDIALI BOUNDIALI BOUNDIALI BOUNDIALI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nondara",
+    "shortName": "COLLEGE MODERNE DE NONDARA",
+    "name": "COLLEGE MODERNE DE NONDARA",
+    "level": "college",
+    "city": "BOUNDIALI",
+    "location": "202 BOUNDIALI BOUNDIALI COM .BOUNDIALI NONDARA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-boundiali",
+    "shortName": "COLLEGE MODERNE DE BOUNDIALI",
+    "name": "COLLEGE MODERNE DE BOUNDIALI",
+    "level": "college",
+    "city": "BOUNDIALI",
+    "location": "203 BOUNDIALI BOUNDIALI COM .BOUNDIALI BOUNDIALI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-baya",
+    "shortName": "COLLEGE MODERNE BAYA",
+    "name": "COLLEGE MODERNE BAYA",
+    "level": "college",
+    "city": "BOUNDIALI",
+    "location": "204 BOUNDIALI BOUNDIALI BAYA BAYA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-siempurgo",
+    "shortName": "COLLEGE MODERNE DE SIEMPURGO",
+    "name": "COLLEGE MODERNE DE SIEMPURGO",
+    "level": "college",
+    "city": "BOUNDIALI",
+    "location": "205 BOUNDIALI BOUNDIALI SIEMPURGO SIEMPURGO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-wora",
+    "shortName": "COLLEGE MODERNE DE WORA",
+    "name": "COLLEGE MODERNE DE WORA",
+    "level": "college",
+    "city": "BOUNDIALI",
+    "location": "206 BOUNDIALI KOUTO KOUTO WORA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bacanda",
+    "shortName": "COLLEGE MODERNE DE BACANDA",
+    "name": "COLLEGE MODERNE DE BACANDA",
+    "level": "college",
+    "city": "KOUTO",
+    "location": "207 DABOU GRAND LAHOU BACANDA BACANDA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-ebounou",
+    "shortName": "COLLEGE MODERNE D'EBOUNOU",
+    "name": "COLLEGE MODERNE D'EBOUNOU",
+    "level": "college",
+    "city": "GRAND",
+    "location": "208 DABOU GRAND LAHOU EBONOU EBONOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-lopou",
+    "shortName": "COLLEGE MODERNE DE LOPOU",
+    "name": "COLLEGE MODERNE DE LOPOU",
+    "level": "college",
+    "city": "GRAND",
+    "location": "209 DABOU DABOU LOPOU LOPOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-2-de-toupah",
+    "shortName": "CM 2 DE TOUPAH",
+    "name": "COLLEGE MODERNE 2 DE TOUPAH",
+    "level": "college",
+    "city": "DABOU",
+    "location": "210 DABOU DABOU S/P. TOUPAH TOUPAH",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-adesse",
+    "shortName": "COLLEGE MODERNE DE ADESSE",
+    "name": "COLLEGE MODERNE DE ADESSE",
+    "level": "college",
+    "city": "DABOU",
+    "location": "211 DABOU JACQUEVILLE S/P. JACQUEVILLE ADESSE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-n-djem",
+    "shortName": "COLLEGE MODERNE DE N'DJEM",
+    "name": "COLLEGE MODERNE DE N'DJEM",
+    "level": "college",
+    "city": "JACQUEVILLE",
+    "location": "212 DABOU JACQUEVILLE S/P. JACQUEVILLE N'DJEM",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-ahounianssou",
+    "shortName": "COLLEGE MODERNE D’AHOUNIANSSOU",
+    "name": "COLLEGE MODERNE D’AHOUNIANSSOU",
+    "level": "college",
+    "city": "GRAND",
+    "location": "AHOUNIANSSOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bouboury",
+    "shortName": "COLLEGE MODERNE DE BOUBOURY",
+    "name": "COLLEGE MODERNE DE BOUBOURY",
+    "level": "college",
+    "city": "DABOU",
+    "location": "214 DABOU DABOU Com. DABOU BOUBOURY",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-djidjikro",
+    "shortName": "COLLEGE MODERNE DE DJIDJIKRO",
+    "name": "COLLEGE MODERNE DE DJIDJIKRO",
+    "level": "college",
+    "city": "GRAND",
+    "location": "DJIDJIKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-akradio",
+    "shortName": "COLLEGE MODERNE DE AKRADIO",
+    "name": "COLLEGE MODERNE DE AKRADIO",
+    "level": "college",
+    "city": "DABOU",
+    "location": "216 DABOU DABOU Sp. DABOU AKRADIO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-orbaff",
+    "shortName": "COLLEGE MODERNE DE ORBAFF",
+    "name": "COLLEGE MODERNE DE ORBAFF",
+    "level": "college",
+    "city": "DABOU",
+    "location": "217 DABOU DABOU Sp. DABOU ORBAFF",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-attoutou-a",
+    "shortName": "CM  ATTOUTOU A",
+    "name": "COLLEGE MODERNE DE ATTOUTOU A",
+    "level": "college",
+    "city": "DABOU",
+    "location": "218 DABOU JACQUEVILLE Sp. ATTOUTOU ATTOUTOU A",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-toukouzou",
+    "shortName": "COLLEGE MODERNE DE TOUKOUZOU",
+    "name": "COLLEGE MODERNE DE TOUKOUZOU",
+    "level": "college",
+    "city": "JACQUEVILLE",
+    "location": "219 DABOU GRAND LAHOU S/P TOUKOUZOU TOUKOUZOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-daloa",
+    "shortName": "COLLEGE MODERNE DE DALOA",
+    "name": "COLLEGE MODERNE DE DALOA",
+    "level": "college",
+    "city": "Daloa",
+    "location": "220 DALOA DALOA DALOA DALOA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-boguedia",
+    "shortName": "COLLEGE MODERNE DE BOGUEDIA",
+    "name": "COLLEGE MODERNE DE BOGUEDIA",
+    "level": "college",
+    "city": "Daloa",
+    "location": "221 DALOA ISSIA BOGUEDIA BOGUEDIA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gonate",
+    "shortName": "COLLEGE MODERNE DE GONATE",
+    "name": "COLLEGE MODERNE DE GONATE",
+    "level": "college",
+    "city": "Daloa",
+    "location": "222 DALOA DALOA Gonaté Gonaté",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-iboguhe",
+    "shortName": "COLLEGE MODERNE D'IBOGUHÉ",
+    "name": "COLLEGE MODERNE D'IBOGUHÉ",
+    "level": "college",
+    "city": "Daloa",
+    "location": "223 DALOA ISSIA Iboguhé Iboguhé",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nahio",
+    "shortName": "COLLEGE MODERNE DE NAHIO",
+    "name": "COLLEGE MODERNE DE NAHIO",
+    "level": "college",
+    "city": "Daloa",
+    "location": "224 DALOA ISSIA Nahio Nahio",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-seitifla",
+    "shortName": "COLLEGE MODERNE DE SEITIFLA",
+    "name": "COLLEGE MODERNE DE SEITIFLA",
+    "level": "college",
+    "city": "Daloa",
+    "location": "225 DALOA VAVOUA SEITIFLA SEITIFLA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bonoufla",
+    "shortName": "COLLEGE MODERNE DE Bonoufla",
+    "name": "COLLEGE MODERNE DE Bonoufla",
+    "level": "college",
+    "city": "Daloa",
+    "location": "226 DALOA VAVOUA VAVOUA Bonoufla",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dania",
+    "shortName": "COLLEGE MODERNE DE DANIA",
+    "name": "COLLEGE MODERNE DE DANIA",
+    "level": "college",
+    "city": "Daloa",
+    "location": "227 DALOA VAVOUA S/P DANIA DANIA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-zaibo",
+    "shortName": "COLLEGE MODERNE DE ZAIBO",
+    "name": "COLLEGE MODERNE DE ZAIBO",
+    "level": "college",
+    "city": "Daloa",
+    "location": "228 DALOA DALOA S/P ZAIBO ZAIBO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gazehio",
+    "shortName": "COLLEGE MODERNE DE GAZEHIO",
+    "name": "COLLEGE MODERNE DE GAZEHIO",
+    "level": "college",
+    "city": "Daloa",
+    "location": "229 DALOA ISSIA Sp. SAIOUA GAZEHIO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-guessabo",
+    "shortName": "COLLEGE MODERNE DE GUESSABO",
+    "name": "COLLEGE MODERNE DE GUESSABO",
+    "level": "college",
+    "city": "Daloa",
+    "location": "230 DALOA ZOUKOUGBEU S,p GUESSABO GUESSABO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bazra-natis",
+    "shortName": "COLLEGE MODERNE DE BAZRA-NATIS",
+    "name": "COLLEGE MODERNE DE BAZRA-NATIS",
+    "level": "college",
+    "city": "Daloa",
+    "location": "231 DALOA VAVOUA Sp. VAVOUA BAZRA-NATIS",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gregbeu",
+    "shortName": "COLLEGE MODERNE DE GREGBEU",
+    "name": "COLLEGE MODERNE DE GREGBEU",
+    "level": "college",
+    "city": "Daloa",
+    "location": "232 DALOA ZOUKOUGBEU S,p GREGBEU GREGBEU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dananon",
+    "shortName": "COLLEGE MODERNE DE DANANON",
+    "name": "COLLEGE MODERNE DE DANANON",
+    "level": "college",
+    "city": "Daloa",
+    "location": "233 DALOA VAVOUA Sp. VAVOUA DANANON",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-ettrokro",
+    "shortName": "COLLEGE MODERNE D'ETTROKRO",
+    "name": "COLLEGE MODERNE D'ETTROKRO",
+    "level": "college",
+    "city": "DANANE",
+    "location": "235 DAOUKRO DAOUKRO ETTROKRO ETTROKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-daoukro",
+    "shortName": "COLLEGE MODERNE DE DAOUKRO",
+    "name": "COLLEGE MODERNE DE DAOUKRO",
+    "level": "college",
+    "city": "DAOUKRO",
+    "location": "236 DAOUKRO DAOUKRO DAOUKRO DAOUKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bonguera",
+    "shortName": "COLLEGE MODERNE DE BONGUERA",
+    "name": "COLLEGE MODERNE DE BONGUERA",
+    "level": "college",
+    "city": "DAOUKRO",
+    "location": "237 DAOUKRO M'BAHIAKRO S/P. BONGUERA BONGUERA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-famienkro",
+    "shortName": "COLLEGE MODERNE DE FAMIENKRO",
+    "name": "COLLEGE MODERNE DE FAMIENKRO",
+    "level": "college",
+    "city": "MBAHIAKRO",
+    "location": "238 DAOUKRO PRIKRO Sp. FAMIENKRO FAMIENKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-n-gattakro",
+    "shortName": "COLLEGE MODERNE DE N'GATTAKRO",
+    "name": "COLLEGE MODERNE DE N'GATTAKRO",
+    "level": "college",
+    "city": "PRIKRO",
+    "location": "239 DAOUKRO DAOUKRO Sp. DAOUKRO N'GATTAKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-donguikro",
+    "shortName": "COLLEGE MODERNE DE DONGUIKRO",
+    "name": "COLLEGE MODERNE DE DONGUIKRO",
+    "level": "college",
+    "city": "PRIKRO",
+    "location": "DONGUIKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-prikro",
+    "shortName": "COLLEGE MODERNE DE PRIKRO",
+    "name": "COLLEGE MODERNE DE PRIKRO",
+    "level": "college",
+    "city": "PRIKRO",
+    "location": "241 DAOUKRO PRIKRO Com. PRIKRO PRIKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-ananda",
+    "shortName": "COLLEGE MODERNE D'ANANDA",
+    "name": "COLLEGE MODERNE D'ANANDA",
+    "level": "college",
+    "city": "PRIKRO",
+    "location": "242 DAOUKRO OUELLE S/P ANANDA ANANDA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kondossou",
+    "shortName": "COLLEGE MODERNE DE KONDOSSOU",
+    "name": "COLLEGE MODERNE DE KONDOSSOU",
+    "level": "college",
+    "city": "OUELLE",
+    "location": "243 DAOUKRO M'BAHIAKRO S/P KONDOSSOU KONDOSSSOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-pepressou",
+    "shortName": "COLLEGE MODERNE DE PEPRESSOU",
+    "name": "COLLEGE MODERNE DE PEPRESSOU",
+    "level": "college",
+    "city": "MBAHIAKRO",
+    "location": "244 DAOUKRO DAOUKRO COM- DAOUKRO PEPRESSOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bengassou",
+    "shortName": "COLLEGE MODERNE DE BENGASSOU",
+    "name": "COLLEGE MODERNE DE BENGASSOU",
+    "level": "college",
+    "city": "DAOUKRO",
+    "location": "245 DIMBOKRO BOCANDA BENGASSOU BENGASSOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-diangokro",
+    "shortName": "COLLEGE MODERNE DE DIANGOKRO",
+    "name": "COLLEGE MODERNE DE DIANGOKRO",
+    "level": "college",
+    "city": "BOCANDA",
+    "location": "246 DIMBOKRO DIMBOKRO DIANGOKRO DIANGOKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-n-zecrezessou",
+    "shortName": "COLLEGE MODERNE DE N'ZECREZESSOU",
+    "name": "COLLEGE MODERNE DE N'ZECREZESSOU",
+    "level": "college",
+    "city": "DIMBOKRO",
+    "location": "247 DIMBOKRO BOCANDA N'ZECREZESSOU N'ZECREZESSOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-mekro",
+    "shortName": "COLLEGE MODERNE DE MEKRO",
+    "name": "COLLEGE MODERNE DE MEKRO",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "Sp. MEKRO MEKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-abigui",
+    "shortName": "COLLEGE MODERNE D'ABIGUI",
+    "name": "COLLEGE MODERNE D'ABIGUI",
+    "level": "college",
+    "city": "DIMBOKRO",
+    "location": "249 DIMBOKRO DIMBOKRO Sp. ABIGUI ABIGUI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-katire-essekro",
+    "shortName": "CM  KATIRE ESSEKRO",
+    "name": "COLLEGE MODERNE DE KATIRE ESSEKRO",
+    "level": "college",
+    "city": "DIMBOKRO",
+    "location": "250 DIMBOKRO BOCANDA BOCANDA KATIRE ESSEKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-n-gassokro",
+    "shortName": "COLLEGE MODERNE DE N'GASSOKRO",
+    "name": "COLLEGE MODERNE DE N'GASSOKRO",
+    "level": "college",
+    "city": "BOCANDA",
+    "location": "251 DIMBOKRO BOCANDA S/P BENGASSOU N'GASSOKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nofou",
+    "shortName": "COLLEGE MODERNE DE NOFOU",
+    "name": "COLLEGE MODERNE DE NOFOU",
+    "level": "college",
+    "city": "BOCANDA",
+    "location": "252 DIMBOKRO DIMBOKRO S/P NOFOU NOFOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nianbezaria",
+    "shortName": "COLLEGE MODERNE DE NIANBEZARIA",
+    "name": "COLLEGE MODERNE DE NIANBEZARIA",
+    "level": "college",
+    "city": "Divo",
+    "location": "253 DIVO LAKOTA LAKOTA LAKOTA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-ogoudou",
+    "shortName": "COLLEGE MODERNE D'OGOUDOU",
+    "name": "COLLEGE MODERNE D'OGOUDOU",
+    "level": "college",
+    "city": "Divo",
+    "location": "254 DIVO DIVO OGOUDOU OGOUDOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nebo",
+    "shortName": "COLLEGE MODERNE DE NEBO",
+    "name": "COLLEGE MODERNE DE NEBO",
+    "level": "college",
+    "city": "Divo",
+    "location": "255 DIVO DIVO NEBO NEBO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gagore",
+    "shortName": "COLLEGE MODERNE DE GAGORE",
+    "name": "COLLEGE MODERNE DE GAGORE",
+    "level": "college",
+    "city": "Divo",
+    "location": "256 DIVO LAKOTA GAGORE GAGORE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-yocoboue",
+    "shortName": "COLLEGE MODERNE DE YOCOBOUE",
+    "name": "COLLEGE MODERNE DE YOCOBOUE",
+    "level": "college",
+    "city": "Divo",
+    "location": "257 DIVO GUITTRY YOCOBOUE YOCOBOUE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-douaville",
+    "shortName": "COLLEGE MODERNE DE DOUAVILLE",
+    "name": "COLLEGE MODERNE DE DOUAVILLE",
+    "level": "college",
+    "city": "Divo",
+    "location": "258 DIVO DIVO Sp HIRE DOUAVILLE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-zego",
+    "shortName": "COLLEGE MODERNE DE ZEGO",
+    "name": "COLLEGE MODERNE DE ZEGO",
+    "level": "college",
+    "city": "Divo",
+    "location": "259 DIVO DIVO S,p ZEGO ZEGO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-grogouya",
+    "shortName": "COLLEGE MODERNE DE GROGOUYA",
+    "name": "COLLEGE MODERNE DE GROGOUYA",
+    "level": "college",
+    "city": "Divo",
+    "location": "260 DIVO LAKOTA SP_LAKOTA GROGOUYA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-hermankono",
+    "shortName": "COLLEGE MODERNE DE HERMANKONO",
+    "name": "COLLEGE MODERNE DE HERMANKONO",
+    "level": "college",
+    "city": "Man",
+    "location": "261 DIVO DIVO OGOUDOU HERMANKONO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-lauzoua",
+    "shortName": "COLLEGE MODERNE DE LAUZOUA",
+    "name": "COLLEGE MODERNE DE LAUZOUA",
+    "level": "college",
+    "city": "Man",
+    "location": "262 DIVO GUITRY Sp. LAUZOUA LAUZOUA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-chiepo",
+    "shortName": "COLLEGE MODERNE DE CHIEPO",
+    "name": "COLLEGE MODERNE DE CHIEPO",
+    "level": "college",
+    "city": "Divo",
+    "location": "263 DIVO DIVO S/P DIVO CHIEPO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dairo-didizo",
+    "shortName": "COLLEGE MODERNE DE DAIRO-DIDIZO",
+    "name": "COLLEGE MODERNE DE DAIRO-DIDIZO",
+    "level": "college",
+    "city": "Divo",
+    "location": "264 DIVO GUITRY S/P DAIRO-DIDIZO DAIRO-DIDIZO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-diekolilie",
+    "shortName": "COLLEGE MODERNE DE DIEKOLILIE",
+    "name": "COLLEGE MODERNE DE DIEKOLILIE",
+    "level": "college",
+    "city": "Divo",
+    "location": "265 DIVO LAKOTA S/P LAKOTA DIEKOLILIE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-douseba",
+    "shortName": "COLLEGE MODERNE DE DOUSEBA",
+    "name": "COLLEGE MODERNE DE DOUSEBA",
+    "level": "college",
+    "city": "Divo",
+    "location": "266 DIVO LAKOTA S/P ZIKISSO DOUSEBA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-goudouko",
+    "shortName": "COLLEGE MODERNE DE GOUDOUKO",
+    "name": "COLLEGE MODERNE DE GOUDOUKO",
+    "level": "college",
+    "city": "Divo",
+    "location": "267 DIVO LAKOTA S/P GOUDOUKO GOUDOUKO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gragba-dagolilie",
+    "shortName": "COLLEGE MODERNE DE GRAGBA-DAGOLILIE",
+    "name": "COLLEGE MODERNE DE GRAGBA-DAGOLILIE",
+    "level": "college",
+    "city": "Divo",
+    "location": "GRAGBA-DAGOLILIE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kouassililie",
+    "shortName": "COLLEGE MODERNE DE KOUASSILILIE",
+    "name": "COLLEGE MODERNE DE KOUASSILILIE",
+    "level": "college",
+    "city": "Divo",
+    "location": "269 DIVO LAKOTA S/P NIAMBEZARIA KOUASSILILIE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-moussadougou",
+    "shortName": "COLLEGE MODERNE DE MOUSSADOUGOU",
+    "name": "COLLEGE MODERNE DE MOUSSADOUGOU",
+    "level": "college",
+    "city": "Divo",
+    "location": "MOUSSADOUGO U",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-niakoblognoa",
+    "shortName": "COLLEGE MODERNE DE NIAKOBLOGNOA",
+    "name": "COLLEGE MODERNE DE NIAKOBLOGNOA",
+    "level": "college",
+    "city": "Divo",
+    "location": "271 DIVO LAKOTA S/P NIAMBEZARIA NIAKOBLOGNOA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-doteneme-keho-de-lakota",
+    "shortName": "CM DOTENEME KEHO DE LAKOTA",
+    "name": "COLLEGE MODERNE DOTENEME KEHO DE LAKOTA",
+    "level": "college",
+    "city": "Divo",
+    "location": "272 DIVO LAKOTA COM. LAKOTA LAKOTA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-guinglo-tahouake",
+    "shortName": "COLLEGE MODERNE DE GUINGLO-TAHOUAKE",
+    "name": "COLLEGE MODERNE DE GUINGLO-TAHOUAKE",
+    "level": "college",
+    "city": "BANGOLO",
+    "location": "GUINGLO-TAHOUAKE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-guezon",
+    "shortName": "COLLEGE MODERNE DE GUEZON",
+    "name": "COLLEGE MODERNE DE GUEZON",
+    "level": "college",
+    "city": "DUEKOUE",
+    "location": "274 DUEKOUE DUEKOUE GUEZON GUEZON",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nanadi",
+    "shortName": "COLLEGE MODERNE DE NANADI",
+    "name": "COLLEGE MODERNE DE NANADI",
+    "level": "college",
+    "city": "DUEKOUE",
+    "location": "275 DUEKOUE DUEKOUE GUEZON NANADI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-semien",
+    "shortName": "COLLEGE MODERNE DE SEMIEN",
+    "name": "COLLEGE MODERNE DE SEMIEN",
+    "level": "college",
+    "city": "DUEKOUE",
+    "location": "276 DUEKOUE KOUIBLY SEMIEN SEMIEN",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-tieny-siably",
+    "shortName": "COLLEGE MODERNE DE TIENY-SIABLY",
+    "name": "COLLEGE MODERNE DE TIENY-SIABLY",
+    "level": "college",
+    "city": "KOUIBLY",
+    "location": "277 DUEKOUE FACOBLY TIENY-SIABLY TIENY-SIABLY",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gloplou",
+    "shortName": "COLLEGE MODERNE DE GLOPLOU",
+    "name": "COLLEGE MODERNE DE GLOPLOU",
+    "level": "college",
+    "city": "BANGOLO",
+    "location": "GLOPLOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-diourouzon",
+    "shortName": "COLLEGE MODERNE DE DIOUROUZON",
+    "name": "COLLEGE MODERNE DE DIOUROUZON",
+    "level": "college",
+    "city": "BANGOLO",
+    "location": "R 2 2020",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-blenimeoin",
+    "shortName": "COLLEGE MODERNE DE BLENIMEOIN",
+    "name": "COLLEGE MODERNE DE BLENIMEOIN",
+    "level": "college",
+    "city": "BANGOLO",
+    "location": "COLLEGE MODERNE DE DIOUROUZON",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-zeo",
+    "shortName": "COLLEGE MODERNE DE ZEO",
+    "name": "COLLEGE MODERNE DE ZEO",
+    "level": "college",
+    "city": "BANGOLO",
+    "location": "U 2 2020",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gohouo-zagna",
+    "shortName": "COLLEGE MODERNE DE GOHOUO-ZAGNA",
+    "name": "COLLEGE MODERNE DE GOHOUO-ZAGNA",
+    "level": "college",
+    "city": "BANGOLO",
+    "location": "GOHOUO-ZAGNA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-tiessan",
+    "shortName": "COLLEGE MODERNE DE TIESSAN",
+    "name": "COLLEGE MODERNE DE TIESSAN",
+    "level": "college",
+    "city": "FACOBLY",
+    "location": "283 DUEKOUE FACOBLY S/P. FACOBLY TIESSAN",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gbapleu",
+    "shortName": "COLLEGE MODERNE DE GBAPLEU",
+    "name": "COLLEGE MODERNE DE GBAPLEU",
+    "level": "college",
+    "city": "DUEKOUE",
+    "location": "U 2 2022",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dah",
+    "shortName": "COLLEGE MODERNE DE DAH",
+    "name": "COLLEGE MODERNE DE DAH",
+    "level": "college",
+    "city": "DUEKOUE",
+    "location": "285 DUEKOUE BANGOLO BANGOLO DAH",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bagohouo",
+    "shortName": "COLLEGE MODERNE DE BAGOHOUO",
+    "name": "COLLEGE MODERNE DE BAGOHOUO",
+    "level": "college",
+    "city": "BANGOLO",
+    "location": "286 DUEKOUE DUEKOUE BAGOHOUO BAGOHOUO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-guehiebly",
+    "shortName": "COLLEGE MODERNE DE GUEHIEBLY",
+    "name": "COLLEGE MODERNE DE GUEHIEBLY",
+    "level": "college",
+    "city": "DUEKOUE",
+    "location": "U 4 2022",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "ouyably-ouyably-college-moderne-de",
+    "shortName": "| | | OUYABLY",
+    "name": "| | | OUYABLY | OUYABLY | | COLLEGE MODERNE DE |",
+    "level": "college",
+    "city": "DUEKOUE",
+    "location": "COLLEGE MODERNE DE GUEHIEBLY",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "touandrou-college-moderne-de",
+    "shortName": "| | | |",
+    "name": "| | | | TOUANDROU | | COLLEGE MODERNE DE |",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "| | | GNONDROU | GNONDROU | | OUYABLY GNONDROU |",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-zou",
+    "shortName": "COLLEGE MODERNE DE ZOU",
+    "name": "COLLEGE MODERNE DE ZOU",
+    "level": "college",
+    "city": "BANGOLO",
+    "location": "U 4 2022",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-totrodrou",
+    "shortName": "COLLEGE MODERNE DE TOTRODROU",
+    "name": "COLLEGE MODERNE DE TOTRODROU",
+    "level": "college",
+    "city": "BANGOLO",
+    "location": "291 DUEKOUE KOUIBLY TOTRODROU TOTRODROU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dibobly",
+    "shortName": "COLLEGE MODERNE DE DIBOBLY",
+    "name": "COLLEGE MODERNE DE DIBOBLY",
+    "level": "college",
+    "city": "DUEKOUE",
+    "location": "R 2 2023",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dieouzon",
+    "shortName": "COLLEGE MODERNE DE DIEOUZON",
+    "name": "COLLEGE MODERNE DE DIEOUZON",
+    "level": "college",
+    "city": "DUEKOUE",
+    "location": "COLLEGE MODERNE DE DIBOBLY",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-pinhou",
+    "shortName": "COLLEGE MODERNE DE PINHOU",
+    "name": "COLLEGE MODERNE DE PINHOU",
+    "level": "college",
+    "city": "BANGOLO",
+    "location": "U 4 2023",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-ferkessedougou",
+    "shortName": "COLLEGE MODERNE DE FERKESSEDOUGOU",
+    "name": "COLLEGE MODERNE DE FERKESSEDOUGOU",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "FERKESSEDOUGO U",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nambonkaha",
+    "shortName": "COLLEGE MODERNE DE NAMBONKAHA",
+    "name": "COLLEGE MODERNE DE NAMBONKAHA",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "FERKESSEDOUGO U",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-village-c",
+    "shortName": "CM  VILLAGE C",
+    "name": "COLLEGE MODERNE DE VILLAGE C",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "VILLAGE C",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-koumbala",
+    "shortName": "COLLEGE MODERNE DE KOUMBALA",
+    "name": "COLLEGE MODERNE DE KOUMBALA",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "FERKESSEDOUGO U",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kaouara",
+    "shortName": "COLLEGE MODERNE DE KAOUARA",
+    "name": "COLLEGE MODERNE DE KAOUARA",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "FERKESSEDOUGO U",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-ouamelhoro",
+    "shortName": "COLLEGE MODERNE D'OUAMELHORO",
+    "name": "COLLEGE MODERNE D'OUAMELHORO",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "FERKESSEDOUGO U",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-pogo",
+    "shortName": "COLLEGE MODERNE DE POGO",
+    "name": "COLLEGE MODERNE DE POGO",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "OUANGOLO TOUMOUKORO POGO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-lafokpokaha",
+    "shortName": "COLLEGE MODERNE DE LAFOKPOKAHA",
+    "name": "COLLEGE MODERNE DE LAFOKPOKAHA",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "LAFOKPOKAHA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-toumoukoro",
+    "shortName": "COLLEGE MODERNE DE TOUMOUKORO",
+    "name": "COLLEGE MODERNE DE TOUMOUKORO",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "FERKESSEDOUGO U",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kofiple",
+    "shortName": "COLLEGE MODERNE DE KOFIPLE",
+    "name": "COLLEGE MODERNE DE KOFIPLE",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "OUANGOLO DIAWALA KOFIPLE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-koronani",
+    "shortName": "COLLEGE MODERNE DE KORONANI",
+    "name": "COLLEGE MODERNE DE KORONANI",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "KORONANI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nambingue",
+    "shortName": "COLLEGE MODERNE DE NAMBINGUE",
+    "name": "COLLEGE MODERNE DE NAMBINGUE",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "FERKESSEDOUGO U",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-togoniere",
+    "shortName": "COLLEGE MODERNE DE TOGONIERE",
+    "name": "COLLEGE MODERNE DE TOGONIERE",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "S/P.TOGONIERE TOGONIERE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-sikolo",
+    "shortName": "COLLEGE MODERNE DE SIKOLO",
+    "name": "COLLEGE MODERNE DE SIKOLO",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "FERKESSEDOUGO U",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nafana",
+    "shortName": "COLLEGE MODERNE DE NAFANA",
+    "name": "COLLEGE MODERNE DE NAFANA",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "FERKESSEDOUGO U",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kong",
+    "shortName": "COLLEGE MODERNE DE KONG",
+    "name": "COLLEGE MODERNE DE KONG",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "KONG Com. KONG KONG",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "311-ferkessedougo-ferkessedougo-ferkessedougo-ferkessedougo-",
+    "shortName": "| 311 | FERKESSEDOUGO",
+    "name": "| 311 | FERKESSEDOUGO | FERKESSEDOUGO | FERKESSEDOUGO | FERKESSEDOUGO | COLLEGE MODERNE 2 DE | U | | 4 | | 2022 |",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bilimono",
+    "shortName": "COLLEGE MODERNE DE BILIMONO",
+    "name": "COLLEGE MODERNE DE BILIMONO",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "FERKESSEDOUGO U",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bougou",
+    "shortName": "COLLEGE MODERNE DE BOUGOU",
+    "name": "COLLEGE MODERNE DE BOUGOU",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "KONG BILIMONO BOUGOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-diawala",
+    "shortName": "COLLEGE MODERNE DE DIAWALA",
+    "name": "COLLEGE MODERNE DE DIAWALA",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "Com. DIAWALA DIAWALA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nafoungolo",
+    "shortName": "COLLEGE MODERNE DE NAFOUNGOLO",
+    "name": "COLLEGE MODERNE DE NAFOUNGOLO",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "Sp. DIAWALA NAFOUNGOLO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nielle",
+    "shortName": "COLLEGE MODERNE DE NIELLE",
+    "name": "COLLEGE MODERNE DE NIELLE",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "OUANGOLODOU GOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "317-ferkessedougo-ferkessedougo-ferkessedougo-tiekpe-college",
+    "shortName": "| 317 | FERKESSEDOUGO",
+    "name": "| 317 | FERKESSEDOUGO | FERKESSEDOUGO | FERKESSEDOUGO | TIEKPE | COLLEGE MODERNE DE | R | 4 | 2023 |",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "| --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-2-de-kong",
+    "shortName": "CM 2 DE KONG",
+    "name": "COLLEGE MODERNE 2 DE KONG",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "FERKESSEDOUGO U",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-2-de-toumoukoro",
+    "shortName": "CM 2 DE TOUMOUKORO",
+    "name": "COLLEGE MODERNE 2 DE TOUMOUKORO",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "S/P TOUMOUKORO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kadarvogo",
+    "shortName": "COLLEGE MODERNE DE KADARVOGO",
+    "name": "COLLEGE MODERNE DE KADARVOGO",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "OUANGOLODOU GOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kafolo-bac",
+    "shortName": "COLLEGE MODERNE DE KAFOLO-BAC",
+    "name": "COLLEGE MODERNE DE KAFOLO-BAC",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "KONG S/P KONG KAFOLO-BAC",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-ouangolodougou",
+    "shortName": "COLLEGE MODERNE DE OUANGOLODOUGOU",
+    "name": "COLLEGE MODERNE DE OUANGOLODOUGOU",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "OUANGOLODOU GOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gagnoa",
+    "shortName": "COLLEGE MODERNE DE GAGNOA",
+    "name": "COLLEGE MODERNE DE GAGNOA",
+    "level": "college",
+    "city": "Gagnoa",
+    "location": "323 GAGNOA GAGNOA GAGNOA GAGNOA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dignago",
+    "shortName": "COLLEGE MODERNE DE DIGNAGO",
+    "name": "COLLEGE MODERNE DE DIGNAGO",
+    "level": "college",
+    "city": "Gagnoa",
+    "location": "U 4 2013",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-brihi",
+    "shortName": "COLLEGE MODERNE DE BRIHI",
+    "name": "COLLEGE MODERNE DE BRIHI",
+    "level": "college",
+    "city": "Gagnoa",
+    "location": "325 GAGNOA GAGNOA BAYOTA BRIHI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-godiabre",
+    "shortName": "COLLEGE MODERNE DE GODIABRE",
+    "name": "COLLEGE MODERNE DE GODIABRE",
+    "level": "college",
+    "city": "Gagnoa",
+    "location": "R 3 2016",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-galebre",
+    "shortName": "COLLEGE MODERNE DE GALEBRE",
+    "name": "COLLEGE MODERNE DE GALEBRE",
+    "level": "college",
+    "city": "Gagnoa",
+    "location": "327 GAGNOA GAGNOA S/P GALEBRE GALEBRE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-zahibohio",
+    "shortName": "COLLEGE MODERNE DE ZAHIBOHIO",
+    "name": "COLLEGE MODERNE DE ZAHIBOHIO",
+    "level": "college",
+    "city": "Gagnoa",
+    "location": "U 3 2016",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-tonla",
+    "shortName": "COLLEGE MODERNE DE TONLA",
+    "name": "COLLEGE MODERNE DE TONLA",
+    "level": "college",
+    "city": "Gagnoa",
+    "location": "R 4 2018",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-ouragahio",
+    "shortName": "COLLEGE MODERNE DE OURAGAHIO",
+    "name": "COLLEGE MODERNE DE OURAGAHIO",
+    "level": "college",
+    "city": "Gagnoa",
+    "location": "U 4 2020",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-djedjedigbeupa",
+    "shortName": "COLLEGE MODERNE DE DJEDJEDIGBEUPA",
+    "name": "COLLEGE MODERNE DE DJEDJEDIGBEUPA",
+    "level": "college",
+    "city": "Gagnoa",
+    "location": "COLLEGE MODERNE DE OURAGAHIO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dahiepa-kehi",
+    "shortName": "COLLEGE MODERNE DE DAHIEPA-KEHI",
+    "name": "COLLEGE MODERNE DE DAHIEPA-KEHI",
+    "level": "college",
+    "city": "Gagnoa",
+    "location": "332 GAGNOA GAGNOA SP. DAHIEPA-KEHI DAHIEPA-KEHI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-oume",
+    "shortName": "COLLEGE MODERNE D'OUME",
+    "name": "COLLEGE MODERNE D'OUME",
+    "level": "college",
+    "city": "Gagnoa",
+    "location": "333 GAGNOA OUME COM. OUME OUME",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-balayo",
+    "shortName": "COLLEGE MODERNE DE BALAYO",
+    "name": "COLLEGE MODERNE DE BALAYO",
+    "level": "college",
+    "city": "Gagnoa",
+    "location": "334 GAGNOA GAGNOA Sp. BAYOTA BALAYO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gnatroa",
+    "shortName": "COLLEGE MODERNE DE GNATROA",
+    "name": "COLLEGE MODERNE DE GNATROA",
+    "level": "college",
+    "city": "Gagnoa",
+    "location": "335 GAGNOA GAGNOA S/P SERIHIO GNATROA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kabia",
+    "shortName": "COLLEGE MODERNE DE KABIA",
+    "name": "COLLEGE MODERNE DE KABIA",
+    "level": "college",
+    "city": "Gagnoa",
+    "location": "336 GAGNOA GAGNOA S/P GAGNOA KABIA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kossehoa",
+    "shortName": "COLLEGE MODERNE DE KOSSEHOA",
+    "name": "COLLEGE MODERNE DE KOSSEHOA",
+    "level": "college",
+    "city": "Gagnoa",
+    "location": "337 GAGNOA GAGNOA S/P GALEBRE KOSSEHOA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kpapekou",
+    "shortName": "COLLEGE MODERNE DE KPAPEKOU",
+    "name": "COLLEGE MODERNE DE KPAPEKOU",
+    "level": "college",
+    "city": "Gagnoa",
+    "location": "KPAPEKOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-yopohue",
+    "shortName": "COLLEGE MODERNE DE YOPOHUE",
+    "name": "COLLEGE MODERNE DE YOPOHUE",
+    "level": "college",
+    "city": "Gagnoa",
+    "location": "339 GAGNOA GAGNOA S/P YOPOHUE YOPOHUE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-zokrobouo",
+    "shortName": "COLLEGE MODERNE DE ZOKROBOUO",
+    "name": "COLLEGE MODERNE DE ZOKROBOUO",
+    "level": "college",
+    "city": "Gagnoa",
+    "location": "340 GAGNOA GAGNOA S/P GAGNOA ZOKROBOUO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-vitre-1",
+    "shortName": "COLLÈGE MODERNE DE VITRÉ",
+    "name": "COLLÈGE MODERNE DE VITRÉ 1",
+    "level": "college",
+    "city": "Grand-Bassam",
+    "location": "VITRE 1",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-thanry-de-guiglo",
+    "shortName": "CM THANRY DE GUIGLO",
+    "name": "COLLEGE MODERNE THANRY DE GUIGLO",
+    "level": "college",
+    "city": "GUIGLO",
+    "location": "342 GUIGLO GUIGLO GUIGLO GUIGLO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-pehe",
+    "shortName": "COLLEGE MODERNE DE PEHE",
+    "name": "COLLEGE MODERNE DE PEHE",
+    "level": "college",
+    "city": "GUIGLO",
+    "location": "343 GUIGLO TOULEPLEU PEHE PEHE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-zagne",
+    "shortName": "COLLEGE MODERNE DE ZAGNE",
+    "name": "COLLEGE MODERNE DE ZAGNE",
+    "level": "college",
+    "city": "TOULEPLEU",
+    "location": "344 GUIGLO GUIGLO ZAGNE ZAGNE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nezobli",
+    "shortName": "COLLEGE MODERNE DE Nezobli",
+    "name": "COLLEGE MODERNE DE Nezobli",
+    "level": "college",
+    "city": "GUIGLO",
+    "location": "345 GUIGLO TOULEPLEU TOULEUPLEU Nezobli",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-dagobert-banzio-de-kaade",
+    "shortName": "COLLEGE DAGOBERT BANZIO DE",
+    "name": "COLLEGE DAGOBERT BANZIO DE KAADE",
+    "level": "college",
+    "city": "TOULEPLEU",
+    "location": "346 GUIGLO GUIGLO KAADE KAADE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-zeaglo",
+    "shortName": "COLLEGE MODERNE DE ZEAGLO",
+    "name": "COLLEGE MODERNE DE ZEAGLO",
+    "level": "college",
+    "city": "GUIGLO",
+    "location": "347 GUIGLO BLOLEQUIN ZEAGLO ZEAGLO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-tiobly",
+    "shortName": "COLLEGE MODERNE DE TIOBLY",
+    "name": "COLLEGE MODERNE DE TIOBLY",
+    "level": "college",
+    "city": "BLOLEQUIN",
+    "location": "348 GUIGLO TOULEPLEU S/P TIOBLY TIOBLY",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-tinhou",
+    "shortName": "COLLEGE MODERNE DE TINHOU",
+    "name": "COLLEGE MODERNE DE TINHOU",
+    "level": "college",
+    "city": "TOULEPLEU",
+    "location": "349 GUIGLO BLOLEQUIN S/P. BLOLEQUIN TINHOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bedy-goazon",
+    "shortName": "COLLEGE MODERNE DE BEDY-GOAZON",
+    "name": "COLLEGE MODERNE DE BEDY-GOAZON",
+    "level": "college",
+    "city": "BLOLEQUIN",
+    "location": "350 GUIGLO GUIGLO S/P. KAADE BEDY-GOAZON",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-zro",
+    "shortName": "COLLEGE MODERNE DE ZRO",
+    "name": "COLLEGE MODERNE DE ZRO",
+    "level": "college",
+    "city": "GUIGLO",
+    "location": "351 GUIGLO GUIGLO Sp. GUIGLO ZRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-des-jeunes-filles-de-yaoude",
+    "shortName": "CM S JEUNES FILLES DE YAOUDE",
+    "name": "COLLEGE MODERNE DES JEUNES FILLES DE YAOUDE",
+    "level": "college",
+    "city": "GUIGLO",
+    "location": "352 GUIGLO GUIGLO Com. GUIGLO YAOUDE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-goya",
+    "shortName": "COLLEGE MODERNE DE GOYA",
+    "name": "COLLEGE MODERNE DE GOYA",
+    "level": "college",
+    "city": "GUIGLO",
+    "location": "353 GUIGLO GUIGLO S/P GUIGLO GOYA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-diboke",
+    "shortName": "COLLEGE MODERNE DE DIBOKE",
+    "name": "COLLEGE MODERNE DE DIBOKE",
+    "level": "college",
+    "city": "GUIGLO",
+    "location": "354 GUIGLO BLOLEQUIN SP. BLOLEQUIN DIBOKE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bakoubly",
+    "shortName": "COLLEGE MODERNE DE BAKOUBLY",
+    "name": "COLLEGE MODERNE DE BAKOUBLY",
+    "level": "college",
+    "city": "BLOLEQUIN",
+    "location": "355 GUIGLO TOULEPLEU SP. BAKOUBLY BAKOUBLY",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-nicla-de-guiglo",
+    "shortName": "CM NICLA DE GUIGLO",
+    "name": "COLLEGE MODERNE NICLA DE GUIGLO",
+    "level": "college",
+    "city": "TOULEPLEU",
+    "location": "356 GUIGLO GUIGLO Sp. GUIGLO GUIGLO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-koarho",
+    "shortName": "COLLEGE MODERNE DE KOARHO",
+    "name": "COLLEGE MODERNE DE KOARHO",
+    "level": "college",
+    "city": "GUIGLO",
+    "location": "357 GUIGLO TOULEPLEU Sp. TOULEPLEU KOARHO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-doke",
+    "shortName": "COLLEGE MODERNE DE DOKE",
+    "name": "COLLEGE MODERNE DE DOKE",
+    "level": "college",
+    "city": "TOULEPLEU",
+    "location": "358 GUIGLO BLOLEQUIN Sp. DOKE DOKE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-keibly",
+    "shortName": "COLLEGE MODERNE DE KEIBLY",
+    "name": "COLLEGE MODERNE DE KEIBLY",
+    "level": "college",
+    "city": "BLOLEQUIN",
+    "location": "359 GUIGLO TAÏ Sp. ZAGNE KEIBLY",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-meo",
+    "shortName": "COLLEGE MODERNE DE MEO",
+    "name": "COLLEGE MODERNE DE MEO",
+    "level": "college",
+    "city": "TAÏ",
+    "location": "360 GUIGLO TOULEPLEU Sp. MEO MEO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nizahon",
+    "shortName": "COLLEGE MODERNE DE NIZAHON",
+    "name": "COLLEGE MODERNE DE NIZAHON",
+    "level": "college",
+    "city": "TOULEPLEU",
+    "location": "361 GUIGLO GUIGLO Sp. GUIGLO NIZAHON",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-yoya",
+    "shortName": "COLLEGE MODERNE DE YOYA",
+    "name": "COLLEGE MODERNE DE YOYA",
+    "level": "college",
+    "city": "GUIGLO",
+    "location": "362 GUIGLO BLOLEQUIN Com. BLOLEQUIN YOYA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-fronan",
+    "shortName": "COLLEGE MODERNE DE FRONAN",
+    "name": "COLLEGE MODERNE DE FRONAN",
+    "level": "college",
+    "city": "BLOLEQUIN",
+    "location": "363 KATIOLA KATIOLA FRONAN FRONAN",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-foumbolo",
+    "shortName": "COLLEGE MODERNE DE FOUMBOLO",
+    "name": "COLLEGE MODERNE DE FOUMBOLO",
+    "level": "college",
+    "city": "KATIOLA",
+    "location": "364 KATIOLA DABAKALA FOUMBOLO FOUMBOLO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-niemene",
+    "shortName": "COLLEGE MODERNE DE NIEMENE",
+    "name": "COLLEGE MODERNE DE NIEMENE",
+    "level": "college",
+    "city": "DABAKALA",
+    "location": "365 KATIOLA KATIOLA NIEMENE NIEMENE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-sokala-sobara",
+    "shortName": "COLLEGE MODERNE DE SOKALA-SOBARA",
+    "name": "COLLEGE MODERNE DE SOKALA-SOBARA",
+    "level": "college",
+    "city": "KATIOLA",
+    "location": "366 KATIOLA DABAKALA SOKALA-SOBARA SOKALA-SOBARA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-pangalakaha",
+    "shortName": "COLLEGE MODERNE DE PANGALAKAHA",
+    "name": "COLLEGE MODERNE DE PANGALAKAHA",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "TAFIRE PANGALAKAHA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-badikaha",
+    "shortName": "COLLEGE MODERNE DE BADIKAHA",
+    "name": "COLLEGE MODERNE DE BADIKAHA",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "BADIKAHA BADIKAHA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "369-katiola-dabakala-satama-satama-college-moderne-de-u-2-20",
+    "shortName": "| 369 | KATIOLA",
+    "name": "| 369 | KATIOLA | DABAKALA | SATAMA | SATAMA | COLLEGE MODERNE DE | U | 2 | 2019 |",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "| --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-niediekaha",
+    "shortName": "COLLEGE MODERNE DE NIEDIEKAHA",
+    "name": "COLLEGE MODERNE DE NIEDIEKAHA",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "NIAKARAMADOU GOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bassawa",
+    "shortName": "COLLEGE MODERNE DE BASSAWA",
+    "name": "COLLEGE MODERNE DE BASSAWA",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "COLLEGE MODERNE DE NIEDIEKAHA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-tendene-bambarasso",
+    "shortName": "CM  TENDENE BAMBARASSO",
+    "name": "COLLEGE MODERNE DE TENDENE BAMBARASSO",
+    "level": "college",
+    "city": "KATIOLA",
+    "location": "TENDENE BAMBARASSO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kanawolo",
+    "shortName": "COLLEGE MODERNE DE KANAWOLO",
+    "name": "COLLEGE MODERNE DE KANAWOLO",
+    "level": "college",
+    "city": "KATIOLA",
+    "location": "373 KATIOLA KATIOLA S/P. KANAWOLO KANAWOLO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-yaossedougou",
+    "shortName": "COLLEGE MODERNE DE YAOSSEDOUGOU",
+    "name": "COLLEGE MODERNE DE YAOSSEDOUGOU",
+    "level": "college",
+    "city": "KATIOLA",
+    "location": "S/P. YAOSSEDOUGOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-kpana-kalo",
+    "shortName": "COLLEGE MODERNE KPANA KALO",
+    "name": "COLLEGE MODERNE KPANA KALO",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "COLLEGE MODERNE DE YAOSSEDOUGOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-kawolo-sobara",
+    "shortName": "COLLEGE MODERNE KAWOLO SOBARA",
+    "name": "COLLEGE MODERNE KAWOLO SOBARA",
+    "level": "college",
+    "city": "DABAKALA",
+    "location": "R 2 2021",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-fenessiguedougou",
+    "shortName": "COLLEGE MODERNE FENESSIGUEDOUGOU",
+    "name": "COLLEGE MODERNE FENESSIGUEDOUGOU",
+    "level": "college",
+    "city": "DABAKALA",
+    "location": "FENESSIGUEDOU GOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-arikokaha",
+    "shortName": "COLLEGE MODERNE D' ARIKOKAHA",
+    "name": "COLLEGE MODERNE D' ARIKOKAHA",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "NIAKARAMADOU GOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-timbe",
+    "shortName": "COLLEGE MODERNE DE TIMBE",
+    "name": "COLLEGE MODERNE DE TIMBE",
+    "level": "college",
+    "city": "KATIOLA",
+    "location": "U 4 2021",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-petionara",
+    "shortName": "COLLEGE MODERNE DE PETIONARA",
+    "name": "COLLEGE MODERNE DE PETIONARA",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "GOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bokala",
+    "shortName": "COLLEGE MODERNE DE BOKALA",
+    "name": "COLLEGE MODERNE DE BOKALA",
+    "level": "college",
+    "city": "DABAKALA",
+    "location": "BONIEREDOUGO U",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kafoudougou",
+    "shortName": "COLLEGE MODERNE DE KAFOUDOUGOU",
+    "name": "COLLEGE MODERNE DE KAFOUDOUGOU",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "COLLEGE MODERNE DE BOKALA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-m-borla-dioulasso",
+    "shortName": "CM  M’BORLA DIOULASSO",
+    "name": "COLLEGE MODERNE DE M’BORLA DIOULASSO",
+    "level": "college",
+    "city": "DABAKALA",
+    "location": "M’BORLA DIOULASSO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nambanakaha",
+    "shortName": "COLLEGE MODERNE DE NAMBANAKAHA",
+    "name": "COLLEGE MODERNE DE NAMBANAKAHA",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "NIAKARAMADOU GOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nassoulo",
+    "shortName": "COLLEGE MODERNE DE NASSOULO",
+    "name": "COLLEGE MODERNE DE NASSOULO",
+    "level": "college",
+    "city": "DABAKALA",
+    "location": "R 2 2024",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-sepikaha",
+    "shortName": "COLLEGE MODERNE DE SEPIKAHA",
+    "name": "COLLEGE MODERNE DE SEPIKAHA",
+    "level": "college",
+    "city": "DABAKALA",
+    "location": "NIAKARAMADOU GOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-korhogo",
+    "shortName": "COLLEGE MODERNE DE KORHOGO",
+    "name": "COLLEGE MODERNE DE KORHOGO",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "387 KORHOGO KORHOGO KOROGHO KOROGHO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-karakoro",
+    "shortName": "COLLEGE MODERNE DE KARAKORO",
+    "name": "COLLEGE MODERNE DE KARAKORO",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "388 KORHOGO KORHOGO KARAKORO KARAKORO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-tioroniaradougou",
+    "shortName": "COLLEGE MODERNE DE TIORONIARADOUGOU",
+    "name": "COLLEGE MODERNE DE TIORONIARADOUGOU",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "TIORONIARADOU GOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-boron",
+    "shortName": "COLLEGE MODERNE DE BORON",
+    "name": "COLLEGE MODERNE DE BORON",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "390 KORHOGO DIKODOUGOU BORON BORON",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-lavononkaha",
+    "shortName": "COLLEGE MODERNE DE LAVONONKAHA",
+    "name": "COLLEGE MODERNE DE LAVONONKAHA",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "391 KORHOGO KORHOGO KORHOGO LAVONONKAHA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-solignougo",
+    "shortName": "COLLEGE MODERNE DE SOLIGNOUGO",
+    "name": "COLLEGE MODERNE DE SOLIGNOUGO",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "392 KORHOGO M'BENGUE M'BENGUE SOLIGNOUGO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kiemou",
+    "shortName": "COLLEGE MODERNE DE KIEMOU",
+    "name": "COLLEGE MODERNE DE KIEMOU",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "393 KORHOGO KORHOGO NAPIE KIEMOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kanoroba",
+    "shortName": "COLLEGE MODERNE DE KANOROBA",
+    "name": "COLLEGE MODERNE DE KANOROBA",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "394 KORHOGO KORHOGO SIRASSO KANOROBA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nafoun",
+    "shortName": "COLLEGE MODERNE DE NAFOUN",
+    "name": "COLLEGE MODERNE DE NAFOUN",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "395 KORHOGO KORHOGO SIRASSO NAFOUN",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kombolokoura",
+    "shortName": "COLLEGE MODERNE DE KOMBOLOKOURA",
+    "name": "COLLEGE MODERNE DE KOMBOLOKOURA",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "396 KORHOGO KORHOGO KORHOGO KOMBOLOKOURA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-lataha",
+    "shortName": "COLLEGE MODERNE DE LATAHA",
+    "name": "COLLEGE MODERNE DE LATAHA",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "397 KORHOGO KORHOGO KORHOGO LATAHA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-guiembe",
+    "shortName": "COLLEGE MODERNE DE GUIEMBE",
+    "name": "COLLEGE MODERNE DE GUIEMBE",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "399 KORHOGO DIKODOUGOU GUIEMBE GUIEMBE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-katogo",
+    "shortName": "COLLEGE MODERNE DE KATOGO",
+    "name": "COLLEGE MODERNE DE KATOGO",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "400 KORHOGO M'BENGUE KATOGO KATOGO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-poungbe",
+    "shortName": "COLLEGE MODERNE DE POUNGBE",
+    "name": "COLLEGE MODERNE DE POUNGBE",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "401 KORHOGO KORHOGO POUNGBE POUNGBE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-sinematiali",
+    "shortName": "COLLEGE MODERNE DE SINEMATIALI",
+    "name": "COLLEGE MODERNE DE SINEMATIALI",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "402 KORHOGO SINEMATIALI SINEMATIALI SINEMATIALI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kagbolodougou",
+    "shortName": "COLLEGE MODERNE DE KAGBOLODOUGOU",
+    "name": "COLLEGE MODERNE DE KAGBOLODOUGOU",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "KAGBOLODOUGO U",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-komborodougo",
+    "shortName": "COLLEGE MODERNE DE KOMBORODOUGO",
+    "name": "COLLEGE MODERNE DE KOMBORODOUGO",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "KOMBORODOUG OU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-sediogo",
+    "shortName": "COLLEGE MODERNE DE SEDIOGO",
+    "name": "COLLEGE MODERNE DE SEDIOGO",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "405 KORHOGO SINEMATIALI SEDIOGO SEDIOGO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-katiali",
+    "shortName": "COLLEGE MODERNE DE KATIALI",
+    "name": "COLLEGE MODERNE DE KATIALI",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "406 KORHOGO M'BENGUE KATIALI KATIALI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nangasseregue",
+    "shortName": "COLLEGE MODERNE DE NANGASSEREGUE",
+    "name": "COLLEGE MODERNE DE NANGASSEREGUE",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "NANGASSEREGUE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nangakaha",
+    "shortName": "COLLEGE MODERNE DE NANGAKAHA",
+    "name": "COLLEGE MODERNE DE NANGAKAHA",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "408 KORHOGO KORHOGO S/P. KORHOGO NANGAKAHA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nangounkaha",
+    "shortName": "COLLEGE MODERNE DE NANGOUNKAHA",
+    "name": "COLLEGE MODERNE DE NANGOUNKAHA",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "409 KORHOGO KORHOGO S/P. KARAKORO NANGOUNKAHA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-lamekaha",
+    "shortName": "COLLEGE MODERNE DE LAMEKAHA",
+    "name": "COLLEGE MODERNE DE LAMEKAHA",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "410 KORHOGO KORHOGO S/P. TIORO LAMEKAHA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-amadou-gon-coulibaly-de-koni",
+    "shortName": "CM AMADOU GON COULIBALY DE K",
+    "name": "COLLEGE MODERNE AMADOU GON COULIBALY DE KONI",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "411 KORHOGO KORHOGO S/P. KONI KONI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-ouattaradougou",
+    "shortName": "COLLEGE MODERNE DE OUATTARADOUGOU",
+    "name": "COLLEGE MODERNE DE OUATTARADOUGOU",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "OUATTARA DOUGOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kaloa",
+    "shortName": "COLLEGE MODERNE DE KALOA",
+    "name": "COLLEGE MODERNE DE KALOA",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "413 KORHOGO M'BENGUE S/P. M'BENGUE KALOA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dassoungboho",
+    "shortName": "COLLEGE MODERNE DE DASSOUNGBÔHÔ",
+    "name": "COLLEGE MODERNE DE DASSOUNGBÔHÔ",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "DASSOUNGBÔHÔ",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bahouakaha",
+    "shortName": "COLLEGE MODERNE DE BAHOUAKAHA",
+    "name": "COLLEGE MODERNE DE BAHOUAKAHA",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "BAHOUAKAHA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-n-ganon",
+    "shortName": "COLLEGE MODERNE DE N’GANON",
+    "name": "COLLEGE MODERNE DE N’GANON",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "416 KORHOGO KORHOGO N’GANON N’GANON",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-jeunes-filles-de-m-bengue",
+    "shortName": "CM  JEUNES FILLES DE M'BENGU",
+    "name": "COLLEGE MODERNE DE JEUNES FILLES DE M'BENGUE",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "417 KORHOGO M'BENGUE Com. M'BENGUE M'BENGUE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-fapaha",
+    "shortName": "COLLEGE MODERNE DE FAPAHA",
+    "name": "COLLEGE MODERNE DE FAPAHA",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "418 KORHOGO KORHOGO Sp. KORHOGO FAPAHA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-2-de-guiembe",
+    "shortName": "CM 2 DE GUIEMBE",
+    "name": "COLLEGE MODERNE 2 DE GUIEMBE",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "419 KORHOGO DIKODOUGOU COM. GUIEMBE GUIEMBE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-2-de-komborodougou",
+    "shortName": "CM 2 DE KOMBORODOUGOU",
+    "name": "COLLEGE MODERNE 2 DE KOMBORODOUGOU",
+    "level": "college",
+    "city": "Côte d'Ivoire",
+    "location": "KOMBORODOUG OU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bodonon",
+    "shortName": "COLLEGE MODERNE DE BODONON",
+    "name": "COLLEGE MODERNE DE BODONON",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "421 KORHOGO KORHOGO S/P KORHOGO BODONON",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dagba",
+    "shortName": "COLLEGE MODERNE DE DAGBA",
+    "name": "COLLEGE MODERNE DE DAGBA",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "422 KORHOGO KORHOGO S/P SIRASSO DAGBA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kadioha",
+    "shortName": "COLLEGE MODERNE DE KADIOHA",
+    "name": "COLLEGE MODERNE DE KADIOHA",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "KADIOHA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kafiokaha-2",
+    "shortName": "CM  KAFIOKAHA 2",
+    "name": "COLLEGE MODERNE DE KAFIOKAHA 2",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "R 2 2024",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-nahouokaha",
+    "shortName": "COLLEGE MODERNE DE NAHOUOKAHA",
+    "name": "COLLEGE MODERNE DE NAHOUOKAHA",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "COLLEGE MODERNE DE KAFIOKAHA 2",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-siolokaha",
+    "shortName": "COLLEGE MODERNE DE SIOLOKAHA",
+    "name": "COLLEGE MODERNE DE SIOLOKAHA",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "R 2 2024",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "427-korhogo-sinematiali-kagbolodougo-kagbolodougo-college-mo",
+    "shortName": "| 427 | KORHOGO",
+    "name": "| 427 | KORHOGO | SINEMATIALI | KAGBOLODOUGO | KAGBOLODOUGO | COLLEGE MODERNE 2 DE | U | 2 | 2024 |",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "| --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-mahapleu",
+    "shortName": "COLLEGE MODERNE DE MAHAPLEU",
+    "name": "COLLEGE MODERNE DE MAHAPLEU",
+    "level": "college",
+    "city": "Korhogo",
+    "location": "| | | | U | U | KAGBOLODOUDOU | | | |",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-jeunes-filles-de-man",
+    "shortName": "CM  JEUNES FILLES DE MAN",
+    "name": "COLLEGE MODERNE DE JEUNES FILLES DE MAN",
+    "level": "college",
+    "city": "Man",
+    "location": "429 MAN MAN MAN MAN",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-man",
+    "shortName": "COLLEGE MODERNE DE MAN",
+    "name": "COLLEGE MODERNE DE MAN",
+    "level": "college",
+    "city": "Man",
+    "location": "430 MAN MAN MAN MAN",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-podiaguine",
+    "shortName": "COLLEGE MODERNE DE PODIAGUINE",
+    "name": "COLLEGE MODERNE DE PODIAGUINE",
+    "level": "college",
+    "city": "Man",
+    "location": "U 3 2013",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-teapleu",
+    "shortName": "COLLEGE MODERNE DE TEAPLEU",
+    "name": "COLLEGE MODERNE DE TEAPLEU",
+    "level": "college",
+    "city": "Man",
+    "location": "433 MAN ZOUAN-HOUNIEN TEAPLEU TEAPLEU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-blapleu",
+    "shortName": "COLLEGE MODERNE DE BLAPLEU",
+    "name": "COLLEGE MODERNE DE BLAPLEU",
+    "level": "college",
+    "city": "Man",
+    "location": "U 3 2015",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kouan-houle",
+    "shortName": "COLLEGE MODERNE DE KOUAN-HOULE",
+    "name": "COLLEGE MODERNE DE KOUAN-HOULE",
+    "level": "college",
+    "city": "Man",
+    "location": "435 MAN DANANE KOUAN-HOULE KOUAN-HOULE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kpata",
+    "shortName": "COLLEGE MODERNE DE KPATA",
+    "name": "COLLEGE MODERNE DE KPATA",
+    "level": "college",
+    "city": "Man",
+    "location": "U 4 2015",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-santa",
+    "shortName": "COLLEGE MODERNE DE SANTA",
+    "name": "COLLEGE MODERNE DE SANTA",
+    "level": "college",
+    "city": "Man",
+    "location": "437 MAN BIANKOUMA SANTA SANTA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gouekangouine",
+    "shortName": "COLLEGE MODERNE DE GOUEKANGOUINE",
+    "name": "COLLEGE MODERNE DE GOUEKANGOUINE",
+    "level": "college",
+    "city": "Man",
+    "location": "GOUEKANGOUIN E",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gbangbegouine",
+    "shortName": "COLLEGE MODERNE DE GBANGBEGOUINE",
+    "name": "COLLEGE MODERNE DE GBANGBEGOUINE",
+    "level": "college",
+    "city": "Man",
+    "location": "439 MAN BIANKOUMA GBANGBEGOUINE GBANGBEGOUINE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-banneu",
+    "shortName": "COLLEGE MODERNE DE BANNEU",
+    "name": "COLLEGE MODERNE DE BANNEU",
+    "level": "college",
+    "city": "Man",
+    "location": "440 MAN ZOUAN-HOUNIEN BANNEU BANNEU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-biele",
+    "shortName": "COLLEGE MODERNE DE BIELE",
+    "name": "COLLEGE MODERNE DE BIELE",
+    "level": "college",
+    "city": "Man",
+    "location": "441 MAN MAN MAN BIELE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kiele",
+    "shortName": "COLLEGE MODERNE DE KIELE",
+    "name": "COLLEGE MODERNE DE KIELE",
+    "level": "college",
+    "city": "Man",
+    "location": "R 2 2018",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gourane",
+    "shortName": "COLLEGE MODERNE DE GOURANE",
+    "name": "COLLEGE MODERNE DE GOURANE",
+    "level": "college",
+    "city": "Man",
+    "location": "COLLEGE MODERNE DE KIELE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-yorodougou",
+    "shortName": "COLLEGE MODERNE DE YORODOUGOU",
+    "name": "COLLEGE MODERNE DE YORODOUGOU",
+    "level": "college",
+    "city": "Man",
+    "location": "U 2 2018",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "445-man-man-gbangbegouine-gbangbegouine-college-moderne-de-u",
+    "shortName": "| 445 | MAN",
+    "name": "| 445 | MAN | MAN | GBANGBEGOUINE | GBANGBEGOUINE | COLLEGE MODERNE DE | U | 2 | 2020 |",
+    "level": "college",
+    "city": "Man",
+    "location": "| --- | --- | --- | --- | --- | --- | --- | --- | --- |",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-mangouin",
+    "shortName": "COLLEGE MODERNE DE MANGOUIN",
+    "name": "COLLEGE MODERNE DE MANGOUIN",
+    "level": "college",
+    "city": "Man",
+    "location": "| | | | -YATI | - YATI | GBANGBEGOUINE- | YATI | | |",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-zaguineu",
+    "shortName": "COLLEGE MODERNE DE ZAGUINEU",
+    "name": "COLLEGE MODERNE DE ZAGUINEU",
+    "level": "college",
+    "city": "Man",
+    "location": "447 MAN DANANE S/P. MAHAPLEU ZAGUINEU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-daleu",
+    "shortName": "COLLEGE MODERNE DE DALEU",
+    "name": "COLLEGE MODERNE DE DALEU",
+    "level": "college",
+    "city": "Man",
+    "location": "448 MAN DANANE S/P. DALEU DALEU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-goutro",
+    "shortName": "COLLEGE MODERNE DE GOUTRO",
+    "name": "COLLEGE MODERNE DE GOUTRO",
+    "level": "college",
+    "city": "Man",
+    "location": "R 2 2020",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-goulaleu",
+    "shortName": "COLLEGE MODERNE DE GOULALEU",
+    "name": "COLLEGE MODERNE DE GOULALEU",
+    "level": "college",
+    "city": "Man",
+    "location": "450 MAN ZOUAN-HOUNIEN S/P. GOULALEU GOULALEU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-zoutouo-dara",
+    "shortName": "CM  ZOUTOUO DARA",
+    "name": "COLLEGE MODERNE DE ZOUTOUO DARA",
+    "level": "college",
+    "city": "Man",
+    "location": "ZOUTOUO DARA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gotongouine",
+    "shortName": "COLLEGE MODERNE DE GOTONGOUINE",
+    "name": "COLLEGE MODERNE DE GOTONGOUINE",
+    "level": "college",
+    "city": "Man",
+    "location": "R 2 2021",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-blole",
+    "shortName": "COLLEGE MODERNE DE BLOLE",
+    "name": "COLLEGE MODERNE DE BLOLE",
+    "level": "college",
+    "city": "Man",
+    "location": "453 MAN MAN Sp. MAN BLOLE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-yeleu",
+    "shortName": "COLLEGE MODERNE DE YELEU",
+    "name": "COLLEGE MODERNE DE YELEU",
+    "level": "college",
+    "city": "Man",
+    "location": "R 2 2021",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-glan-houye",
+    "shortName": "CM  GLAN -HOUYE",
+    "name": "COLLEGE MODERNE DE GLAN -HOUYE",
+    "level": "college",
+    "city": "Man",
+    "location": "455 MAN DANANE Sp. GBON HOUYE GLAN -HOUYE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gan-2",
+    "shortName": "CM  GAN 2",
+    "name": "COLLEGE MODERNE DE GAN 2",
+    "level": "college",
+    "city": "Man",
+    "location": "R 2 2021",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-sokourala",
+    "shortName": "COLLEGE MODERNE DE SOKOURALA",
+    "name": "COLLEGE MODERNE DE SOKOURALA",
+    "level": "college",
+    "city": "Man",
+    "location": "457 MAN BIANKOUMA Sp. BIANKOUMA SOKOURALA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-biankouma",
+    "shortName": "COLLEGE MODERNE DE BIANKOUMA",
+    "name": "COLLEGE MODERNE DE BIANKOUMA",
+    "level": "college",
+    "city": "Man",
+    "location": "BIANKOUMA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gouane",
+    "shortName": "COLLEGE MODERNE DE GOUANE",
+    "name": "COLLEGE MODERNE DE GOUANE",
+    "level": "college",
+    "city": "Man",
+    "location": "459 MAN BIANKOUMA Sp. GOUINE GOUANE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dioule",
+    "shortName": "COLLEGE MODERNE DE DIOULE",
+    "name": "COLLEGE MODERNE DE DIOULE",
+    "level": "college",
+    "city": "Man",
+    "location": "461 MAN MAN ZIOGOUINE DIOULE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dakouepleu",
+    "shortName": "COLLEGE MODERNE DE DAKOUEPLEU",
+    "name": "COLLEGE MODERNE DE DAKOUEPLEU",
+    "level": "college",
+    "city": "Man",
+    "location": "462 MAN MAN S/P LOGOUALE DAKOUEPLEU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kabakouma",
+    "shortName": "COLLEGE MODERNE DE KABAKOUMA",
+    "name": "COLLEGE MODERNE DE KABAKOUMA",
+    "level": "college",
+    "city": "Man",
+    "location": "463 MAN BIANKOUMA S/P BIANKOUMA KABAKOUMA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-klapleu",
+    "shortName": "COLLEGE MODERNE DE KLAPLEU",
+    "name": "COLLEGE MODERNE DE KLAPLEU",
+    "level": "college",
+    "city": "Man",
+    "location": "464 MAN BIANKOUMA BLAPLEU KLAPLEU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bouandougou",
+    "shortName": "COLLEGE MODERNE DE BOUANDOUGOU",
+    "name": "COLLEGE MODERNE DE BOUANDOUGOU",
+    "level": "college",
+    "city": "Man",
+    "location": "465 MANKONO MANKONO BOUANDOUGOU BOUANDOUGOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kongasso",
+    "shortName": "COLLEGE MODERNE DE KONGASSO",
+    "name": "COLLEGE MODERNE DE KONGASSO",
+    "level": "college",
+    "city": "Man",
+    "location": "466 MANKONO KOUNAHIRI KONGASSO KONGASSO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-marandallah",
+    "shortName": "COLLEGE MODERNE DE MARANDALLAH",
+    "name": "COLLEGE MODERNE DE MARANDALLAH",
+    "level": "college",
+    "city": "Man",
+    "location": "467 MANKONO MANKONO MARANDALLAH MARANDALLAH",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dialakoro",
+    "shortName": "COLLEGE MODERNE DE DIALAKORO",
+    "name": "COLLEGE MODERNE DE DIALAKORO",
+    "level": "college",
+    "city": "Man",
+    "location": "468 MANKONO MANKONO TIENINGOUE DIALAKORO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dianra-village",
+    "shortName": "COLLEGE MODERNE DE DIANRA-VILLAGE",
+    "name": "COLLEGE MODERNE DE DIANRA-VILLAGE",
+    "level": "college",
+    "city": "Man",
+    "location": "DIANRA-VILLAGE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-samorosso",
+    "shortName": "COLLEGE MODERNE DE SAMOROSSO",
+    "name": "COLLEGE MODERNE DE SAMOROSSO",
+    "level": "college",
+    "city": "Man",
+    "location": "470 MANKONO MANKONO S/P. SAMOROSSO SAMOROSSO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-fizanlouma",
+    "shortName": "COLLEGE MODERNE DE FIZANLOUMA",
+    "name": "COLLEGE MODERNE DE FIZANLOUMA",
+    "level": "college",
+    "city": "Man",
+    "location": "471 MANKONO MANKONO MANKONO FIZANLOUMA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-tonhoule-de-mankono",
+    "shortName": "CM TONHOULE DE MANKONO",
+    "name": "COLLEGE MODERNE TONHOULE DE MANKONO",
+    "level": "college",
+    "city": "Man",
+    "location": "TONHOULE DE MANKONO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kouatta",
+    "shortName": "COLLEGE MODERNE DE KOUATTA",
+    "name": "COLLEGE MODERNE DE KOUATTA",
+    "level": "college",
+    "city": "Man",
+    "location": "473 MANKONO KOUNAHIRI Sp. KOUNAHIRI KOUATTA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kamoro",
+    "shortName": "COLLEGE MODERNE DE KAMORO",
+    "name": "COLLEGE MODERNE DE KAMORO",
+    "level": "college",
+    "city": "Man",
+    "location": "KAMORO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-korokopla",
+    "shortName": "COLLEGE MODERNE DE KOROKOPLA",
+    "name": "COLLEGE MODERNE DE KOROKOPLA",
+    "level": "college",
+    "city": "Man",
+    "location": "475 MANKONO KOUNAHIRI Sp. KONGASSO KOROKOPLA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-soukourougban",
+    "shortName": "COLLEGE MODERNE DE SOUKOUROUGBAN",
+    "name": "COLLEGE MODERNE DE SOUKOUROUGBAN",
+    "level": "college",
+    "city": "Man",
+    "location": "476 MANKONO KOUNAHIRI Sp. KOUNAHIRI SOUKOUROUGBA N",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-tomono",
+    "shortName": "COLLEGE MODERNE DE TOMONO",
+    "name": "COLLEGE MODERNE DE TOMONO",
+    "level": "college",
+    "city": "Man",
+    "location": "477 MANKONO MANKONO Sp. MANKONO TOMONO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bambalouma",
+    "shortName": "COLLEGE MODERNE DE BAMBALOUMA",
+    "name": "COLLEGE MODERNE DE BAMBALOUMA",
+    "level": "college",
+    "city": "Man",
+    "location": "478 MANKONO KOUNAHIRI Sp. KONGASSO BAMBALOUMA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-boayakro",
+    "shortName": "COLLEGE MODERNE DE BOAYAKRO",
+    "name": "COLLEGE MODERNE DE BOAYAKRO",
+    "level": "college",
+    "city": "Man",
+    "location": "479 MANKONO KOUNAHIRI Sp. KOUNAHIRI BOAYAKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-ouedallah",
+    "shortName": "COLLEGE MODERNE DE OUEDALLAH",
+    "name": "COLLEGE MODERNE DE OUEDALLAH",
+    "level": "college",
+    "city": "Man",
+    "location": "480 MANKONO MANKONO Sp. TIENINGBOUE OUEDALLAH",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-oussougoula",
+    "shortName": "COLLEGE MODERNE DE OUSSOUGOULA",
+    "name": "COLLEGE MODERNE DE OUSSOUGOULA",
+    "level": "college",
+    "city": "Man",
+    "location": "481 MANKONO MANKONO Com. MANKONO OUSSOUGOULA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-goulia",
+    "shortName": "COLLEGE MODERNE DE GOULIA",
+    "name": "COLLEGE MODERNE DE GOULIA",
+    "level": "college",
+    "city": "Man",
+    "location": "482 MINIGNAN KANIASSO GOULIA GOULIA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-municipal-de-tienko",
+    "shortName": "COLLEGE MUNICIPAL DE TIENKO",
+    "name": "COLLEGE MUNICIPAL DE TIENKO",
+    "level": "college",
+    "city": "KANIASSO",
+    "location": "483 MINIGNAN MINIGNAN TIENKO TIENKO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-banankoro",
+    "shortName": "COLLEGE MODERNE DE BANANKORO",
+    "name": "COLLEGE MODERNE DE BANANKORO",
+    "level": "college",
+    "city": "MINIGNAN",
+    "location": "484 MINIGNAN MINIGNAN BANANKORO KANIASSO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-mahandiana",
+    "shortName": "COLLEGE MODERNE DE MAHANDIANA",
+    "name": "COLLEGE MODERNE DE MAHANDIANA",
+    "level": "college",
+    "city": "KANIASSO",
+    "location": "MAHANDIANA-SOKOURANI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-sananferedougou",
+    "shortName": "COLLEGE MODERNE DE SANANFEREDOUGOU",
+    "name": "COLLEGE MODERNE DE SANANFEREDOUGOU",
+    "level": "college",
+    "city": "KANIASSO",
+    "location": "SANANFEREDOU GOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-sokoro",
+    "shortName": "COLLEGE MODERNE DE SOKORO",
+    "name": "COLLEGE MODERNE DE SOKORO",
+    "level": "college",
+    "city": "MINIGNAN",
+    "location": "487 MINIGNAN MINIGNAN Sp. SOKORO SOKORO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kimbirila-nord",
+    "shortName": "COLLEGE MODERNE DE KIMBIRILA-NORD",
+    "name": "COLLEGE MODERNE DE KIMBIRILA-NORD",
+    "level": "college",
+    "city": "MINIGNAN",
+    "location": "KIMBIRILA-NORD",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-minignan",
+    "shortName": "COLLEGE MODERNE DE MINIGNAN",
+    "name": "COLLEGE MODERNE DE MINIGNAN",
+    "level": "college",
+    "city": "MINIGNAN",
+    "location": "489 MINIGNAN MINIGNAN Com. MINIGNAN MINIGNAN",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kaniasso",
+    "shortName": "COLLEGE MODERNE DE KANIASSO",
+    "name": "COLLEGE MODERNE DE KANIASSO",
+    "level": "college",
+    "city": "MINIGNAN",
+    "location": "490 MINIGNAN KANIASSO Com. KANIASSO KANIASSO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderme-de-koro-oule",
+    "shortName": "COLLEGE MODERME DE KORO-OULE",
+    "name": "COLLEGE MODERME DE KORO-OULE",
+    "level": "college",
+    "city": "KANIASSO",
+    "location": "491 MINIGNAN KANIASSO COM. KANIASSO KORO-OULE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-goueya",
+    "shortName": "COLLEGE MODERNE DE GOUEYA",
+    "name": "COLLEGE MODERNE DE GOUEYA",
+    "level": "college",
+    "city": "KANIASSO",
+    "location": "GOUEYA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bako",
+    "shortName": "COLLEGE MODERNE DE BAKO",
+    "name": "COLLEGE MODERNE DE BAKO",
+    "level": "college",
+    "city": "Man",
+    "location": "BAKO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-odienne",
+    "shortName": "COLLEGE MODERNE D'ODIENNE",
+    "name": "COLLEGE MODERNE D'ODIENNE",
+    "level": "college",
+    "city": "ODIENNE",
+    "location": "494 ODIENNE ODIENNE ODIENNE ODIENNE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-feremandougou",
+    "shortName": "COLLEGE MODERNE DE FEREMANDOUGOU",
+    "name": "COLLEGE MODERNE DE FEREMANDOUGOU",
+    "level": "college",
+    "city": "Man",
+    "location": "FEREMANDOUGO U",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bougousso",
+    "shortName": "COLLEGE MODERNE DE BOUGOUSSO",
+    "name": "COLLEGE MODERNE DE BOUGOUSSO",
+    "level": "college",
+    "city": "Man",
+    "location": "496 ODIENNE ODIENNE BOUGOUSSO BOUGOUSSO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kimbrila-sud",
+    "shortName": "CM  KIMBRILA SUD",
+    "name": "COLLEGE MODERNE DE KIMBRILA SUD",
+    "level": "college",
+    "city": "ODIENNE",
+    "location": "497 ODIENNE SAMATIGUILA KIMBRILA SUD KIMBRILA SUD",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gbonkaha",
+    "shortName": "COLLEGE MODERNE DE GBONKAHA",
+    "name": "COLLEGE MODERNE DE GBONKAHA",
+    "level": "college",
+    "city": "SAMATIGUILA",
+    "location": "498 ODIENNE MADINANI SEGUELON GBONGAHA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dioulatiedougou",
+    "shortName": "COLLEGE MODERNE DE DIOULATIEDOUGOU",
+    "name": "COLLEGE MODERNE DE DIOULATIEDOUGOU",
+    "level": "college",
+    "city": "ODIENNE",
+    "location": "DIOULATIEDOUG OU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gbeleban",
+    "shortName": "COLLEGE MODERNE DE GBELEBAN",
+    "name": "COLLEGE MODERNE DE GBELEBAN",
+    "level": "college",
+    "city": "GBELEBAN",
+    "location": "500 ODIENNE GBELEBAN S/P GBELEBAN GBELEBAN",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-samango",
+    "shortName": "COLLEGE MODERNE DE SAMANGO",
+    "name": "COLLEGE MODERNE DE SAMANGO",
+    "level": "college",
+    "city": "Man",
+    "location": "501 ODIENNE GBELEBAN SAMANGO SAMANGO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kroukro-mafere",
+    "shortName": "CM  KROUKRO - MAFERE",
+    "name": "COLLEGE MODERNE DE KROUKRO - MAFERE",
+    "level": "college",
+    "city": "Man",
+    "location": "KROUKRO -MAFERE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kokoun",
+    "shortName": "COLLEGE MODERNE DE KOKOUN",
+    "name": "COLLEGE MODERNE DE KOKOUN",
+    "level": "college",
+    "city": "MADINANI",
+    "location": "503 ODIENNE MADINANI S/P. MADINANI KOKOUN",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-lingoho",
+    "shortName": "COLLEGE MODERNE DE LINGOHO",
+    "name": "COLLEGE MODERNE DE LINGOHO",
+    "level": "college",
+    "city": "MADINANI",
+    "location": "504 ODIENNE SEGUELON Sp. SEGUELON LINGOHO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-seydougou",
+    "shortName": "COLLEGE MODERNE DE SEYDOUGOU",
+    "name": "COLLEGE MODERNE DE SEYDOUGOU",
+    "level": "college",
+    "city": "SEGUELON",
+    "location": "505 ODIENNE GBELEBAN Com SEYDOUGOU SEYDOUGOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-foula",
+    "shortName": "COLLEGE MODERNE DE FOULA",
+    "name": "COLLEGE MODERNE DE FOULA",
+    "level": "college",
+    "city": "GBELEBAN",
+    "location": "506 ODIENNE ODIENNE BOUGOUSSO FOULA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-fengolo",
+    "shortName": "COLLEGE MODERNE DE FENGOLO",
+    "name": "COLLEGE MODERNE DE FENGOLO",
+    "level": "college",
+    "city": "ODIENNE",
+    "location": "507 ODIENNE MADINANI Sp. FENGOLO FENGOLO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-n-goloblasso",
+    "shortName": "COLLEGE MODERNE DE N’GOLOBLASSO",
+    "name": "COLLEGE MODERNE DE N’GOLOBLASSO",
+    "level": "college",
+    "city": "MADINANI",
+    "location": "508 ODIENNE MADINANI N’GOLOBLASSO N’GOLOBLASSO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-copaga-de-gabiagui",
+    "shortName": "CM COPAGA DE GABIAGUI",
+    "name": "COLLEGE MODERNE COPAGA DE GABIAGUI",
+    "level": "college",
+    "city": "MADINANI",
+    "location": "509 SAN-PEDRO SAN-PEDRO GABIAGUI GABIAGUI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gabiagui",
+    "shortName": "COLLEGE MODERNE DE GABIAGUI",
+    "name": "COLLEGE MODERNE DE GABIAGUI",
+    "level": "college",
+    "city": "SAN-PEDRO",
+    "location": "510 SAN-PEDRO SAN-PEDRO GABIAGUI GABIAGUI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-kfw-de-san-pedro",
+    "shortName": "CM KFW DE SAN-PEDRO",
+    "name": "COLLEGE MODERNE KFW DE SAN-PEDRO",
+    "level": "college",
+    "city": "SAN-PEDRO",
+    "location": "511 SAN-PEDRO SAN-PEDRO SAN-PEDRO SAN-PEDRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-digboue-de-san-pedro",
+    "shortName": "CM DIGBOUE DE SAN PEDRO",
+    "name": "COLLEGE MODERNE DIGBOUE DE SAN PEDRO",
+    "level": "college",
+    "city": "SAN-PEDRO",
+    "location": "512 SAN-PEDRO SAN-PEDRO Com. SAN-PEDRO SAN PEDRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-adjamene",
+    "shortName": "COLLEGE MODERNE D'ADJAMENE",
+    "name": "COLLEGE MODERNE D'ADJAMENE",
+    "level": "college",
+    "city": "SAN",
+    "location": "ADJAMENE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-blahou",
+    "shortName": "COLLEGE MODERNE DE BLAHOU",
+    "name": "COLLEGE MODERNE DE BLAHOU",
+    "level": "college",
+    "city": "SAN",
+    "location": "514 SAN-PEDRO SAN PEDRO S/P GABIADJI BLAHOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-fahe",
+    "shortName": "COLLEGE MODERNE DE FAHE",
+    "name": "COLLEGE MODERNE DE FAHE",
+    "level": "college",
+    "city": "SAN",
+    "location": "515 SAN-PEDRO SAN PEDRO S/P GABIADJI FAHE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-mane",
+    "shortName": "COLLEGE MODERNE DE MANE",
+    "name": "COLLEGE MODERNE DE MANE",
+    "level": "college",
+    "city": "Man",
+    "location": "MANE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-youwasso",
+    "shortName": "COLLEGE MODERNE DE YOUWASSO",
+    "name": "COLLEGE MODERNE DE YOUWASSO",
+    "level": "college",
+    "city": "SAN",
+    "location": "YOUWASSO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-grihiri",
+    "shortName": "COLLEGE MODERNE DE GRIHIRI",
+    "name": "COLLEGE MODERNE DE GRIHIRI",
+    "level": "college",
+    "city": "SASSANDRA",
+    "location": "518 SASSANDRA SASSANDRA GRIHIRI GRIHIRI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dassioko",
+    "shortName": "COLLEGE MODERNE DE DASSIOKO",
+    "name": "COLLEGE MODERNE DE DASSIOKO",
+    "level": "college",
+    "city": "SASSANDRA",
+    "location": "519 SASSANDRA SASSANDRA SASSANDRA DASSIOKO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gbagbam",
+    "shortName": "COLLEGE MODERNE DE GBAGBAM",
+    "name": "COLLEGE MODERNE DE GBAGBAM",
+    "level": "college",
+    "city": "SASSANDRA",
+    "location": "520 SASSANDRA FRESCO GBAGBAM GBAGBAM",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dapkadou",
+    "shortName": "COLLEGE MODERNE DE DAPKADOU",
+    "name": "COLLEGE MODERNE DE DAPKADOU",
+    "level": "college",
+    "city": "FRESCO",
+    "location": "521 SASSANDRA SASSANDRA DAPKADOU DAPKADOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-lobakuya",
+    "shortName": "COLLEGE MODERNE DE LOBAKUYA",
+    "name": "COLLEGE MODERNE DE LOBAKUYA",
+    "level": "college",
+    "city": "SASSANDRA",
+    "location": "522 SASSANDRA SASSANDRA LOBAKUYA LOBAKUYA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-sago",
+    "shortName": "COLLEGE MODERNE DE SAGO",
+    "name": "COLLEGE MODERNE DE SAGO",
+    "level": "college",
+    "city": "SASSANDRA",
+    "location": "523 SASSANDRA SASSANDRA SAGO SAGO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dahiri",
+    "shortName": "COLLEGE MODERNE DE DAHIRI",
+    "name": "COLLEGE MODERNE DE DAHIRI",
+    "level": "college",
+    "city": "SASSANDRA",
+    "location": "524 SASSANDRA FRESCO DAHIRI DAHIRI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-medon",
+    "shortName": "COLLEGE MODERNE DE MEDON",
+    "name": "COLLEGE MODERNE DE MEDON",
+    "level": "college",
+    "city": "FRESCO",
+    "location": "525 SASSANDRA SASSANDRA MEDON MEDON",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-pauly-brousse",
+    "shortName": "COLLEGE MODERNE DE PAULY-BROUSSE",
+    "name": "COLLEGE MODERNE DE PAULY-BROUSSE",
+    "level": "college",
+    "city": "SASSANDRA",
+    "location": "526 SASSANDRA SASSANDRA SASSANDRA PAULY-BROUSSE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dagbego-2",
+    "shortName": "CM  DAGBEGO 2",
+    "name": "COLLEGE MODERNE DE DAGBEGO 2",
+    "level": "college",
+    "city": "SASSANDRA",
+    "location": "527 SASSANDRA SASSANDRA S/P SASSANDRA DAGBEGO 2",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-lateko",
+    "shortName": "COLLEGE MODERNE DE LATEKO",
+    "name": "COLLEGE MODERNE DE LATEKO",
+    "level": "college",
+    "city": "SASSANDRA",
+    "location": "528 SASSANDRA SASSANDRA S/P SASSANDRA LATEKO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gaoulou",
+    "shortName": "COLLEGE MODERNE DE GAOULOU",
+    "name": "COLLEGE MODERNE DE GAOULOU",
+    "level": "college",
+    "city": "SASSANDRA",
+    "location": "529 SASSANDRA SASSANDRA S/P SASSANDRA GAOULOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-niegrouboue",
+    "shortName": "COLLEGE MODERNE DE NIEGROUBOUE",
+    "name": "COLLEGE MODERNE DE NIEGROUBOUE",
+    "level": "college",
+    "city": "SASSANDRA",
+    "location": "530 SASSANDRA SASSANDRA SAGO NIEGROUBOUE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-2-de-gbagbam",
+    "shortName": "CM 2 DE GBAGBAM",
+    "name": "COLLEGE MODERNE 2 DE GBAGBAM",
+    "level": "college",
+    "city": "SASSANDRA",
+    "location": "531 SASSANDRA FRESCO GBAGBAM GBAGBAM",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-massala",
+    "shortName": "COLLEGE MODERNE DE MASSALA",
+    "name": "COLLEGE MODERNE DE MASSALA",
+    "level": "college",
+    "city": "FRESCO",
+    "location": "532 SEGUELA SEGUELA MASSALA MASSALA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "lycee-moderne-jeunes-filles-de-seguela-internat",
+    "shortName": "L. JEUNES FILLES DE SEGUELA ",
+    "name": "LYCEE MODERNE JEUNES FILLES DE SEGUELA (+internat)",
+    "level": "lycee",
+    "city": "SEGUELA",
+    "location": "533 SEGUELA SEGUELA SEGUELA SEGUELA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dualla",
+    "shortName": "COLLEGE MODERNE DE DUALLA",
+    "name": "COLLEGE MODERNE DE DUALLA",
+    "level": "college",
+    "city": "SEGUELA",
+    "location": "534 SEGUELA SEGUELA DUALLA DUALLA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-diarabana",
+    "shortName": "COLLEGE MODERNE DE DIARABANA",
+    "name": "COLLEGE MODERNE DE DIARABANA",
+    "level": "college",
+    "city": "SEGUELA",
+    "location": "535 SEGUELA SEGUELA DIARABANA DIARABANA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-teguela",
+    "shortName": "COLLEGE MODERNE DE TEGUELA",
+    "name": "COLLEGE MODERNE DE TEGUELA",
+    "level": "college",
+    "city": "SEGUELA",
+    "location": "536 SEGUELA SEGUELA SEGUELA TEGUELA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-worofla",
+    "shortName": "COLLEGE MODERNE DE WOROFLA",
+    "name": "COLLEGE MODERNE DE WOROFLA",
+    "level": "college",
+    "city": "SEGUELA",
+    "location": "537 SEGUELA SEGUELA WOROFLA WOROFLA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gbogolo",
+    "shortName": "COLLEGE MODERNE DE GBOGOLO",
+    "name": "COLLEGE MODERNE DE GBOGOLO",
+    "level": "college",
+    "city": "SEGUELA",
+    "location": "538 SEGUELA SEGUELA MASSALA GBOGOLO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-tiemassoba",
+    "shortName": "COLLEGE MODERNE DE TIEMASSOBA",
+    "name": "COLLEGE MODERNE DE TIEMASSOBA",
+    "level": "college",
+    "city": "SEGUELA",
+    "location": "539 SEGUELA SEGUELA TIEMASSOBA TIEMASSOBA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gbingoro-sagoura",
+    "shortName": "COLLEGE MODERNE DE GBINGORO-SAGOURA",
+    "name": "COLLEGE MODERNE DE GBINGORO-SAGOURA",
+    "level": "college",
+    "city": "SEGUELA",
+    "location": "GBINGORO-SAGOURA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-djibrosso",
+    "shortName": "COLLEGE MODERNE DE DJIBROSSO",
+    "name": "COLLEGE MODERNE DE DJIBROSSO",
+    "level": "college",
+    "city": "KANI",
+    "location": "541 SEGUELA KANI DJIBROSSO DJIBROSSO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-fadiadougou",
+    "shortName": "COLLEGE MODERNE DE FADIADOUGOU",
+    "name": "COLLEGE MODERNE DE FADIADOUGOU",
+    "level": "college",
+    "city": "KANI",
+    "location": "542 SEGUELA KANI FADIADOUGOU FADIADOUGOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bobi",
+    "shortName": "COLLEGE MODERNE DE BOBI",
+    "name": "COLLEGE MODERNE DE BOBI",
+    "level": "college",
+    "city": "KANI",
+    "location": "543 SEGUELA SEGUELA BOBI BOBI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-manabri",
+    "shortName": "COLLEGE MODERNE DE MANABRI",
+    "name": "COLLEGE MODERNE DE MANABRI",
+    "level": "college",
+    "city": "Man",
+    "location": "544 SEGUELA KANI Sp. KANI MANABRI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-gbetogo",
+    "shortName": "COLLEGE MODERNE GBETOGO",
+    "name": "COLLEGE MODERNE GBETOGO",
+    "level": "college",
+    "city": "Man",
+    "location": "545 SEGUELA SEGUELA Com. WOROFLA GBETOGO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kamalo",
+    "shortName": "COLLEGE MODERNE DE KAMALO",
+    "name": "COLLEGE MODERNE DE KAMALO",
+    "level": "college",
+    "city": "SEGUELA",
+    "location": "546 SEGUELA SEGUELA KAMALO KAMALO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-siana",
+    "shortName": "COLLEGE MODERNE DE SIANA",
+    "name": "COLLEGE MODERNE DE SIANA",
+    "level": "college",
+    "city": "SEGUELA",
+    "location": "547 SEGUELA SEGUELA Sp. SEGUELA SIANA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-soba-banandje",
+    "shortName": "CM  SOBA - BANANDJE",
+    "name": "COLLEGE MODERNE DE SOBA - BANANDJE",
+    "level": "college",
+    "city": "SEGUELA",
+    "location": "SOBA -BANANDJE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-diorhole",
+    "shortName": "COLLEGE MODERNE DE DIORHOLE",
+    "name": "COLLEGE MODERNE DE DIORHOLE",
+    "level": "college",
+    "city": "SEGUELA",
+    "location": "549 SEGUELA SEGUELA COM. MASSALA DIORHOLE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kato",
+    "shortName": "COLLEGE MODERNE DE KATO",
+    "name": "COLLEGE MODERNE DE KATO",
+    "level": "college",
+    "city": "SEGUELA",
+    "location": "550 SEGUELA SEGUELA S/P WOROFLA KATO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-yacolidabouo",
+    "shortName": "COLLEGE MODERNE DE YACOLIDABOUO",
+    "name": "COLLEGE MODERNE DE YACOLIDABOUO",
+    "level": "college",
+    "city": "SEGUELA",
+    "location": "551 SOUBRE SOUBRE LILIYO YACOLIDABOUO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gueyo",
+    "shortName": "COLLEGE MODERNE DE GUEYO",
+    "name": "COLLEGE MODERNE DE GUEYO",
+    "level": "college",
+    "city": "SOUBRE",
+    "location": "552 SOUBRE GUEYO GUEYO GUEYO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-mayo",
+    "shortName": "COLLEGE MODERNE DE MAYO",
+    "name": "COLLEGE MODERNE DE MAYO",
+    "level": "college",
+    "city": "GUEYO",
+    "location": "553 SOUBRE SOUBRE MAYO MAYO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-soubre",
+    "shortName": "COLLEGE MODERNE DE SOUBRE",
+    "name": "COLLEGE MODERNE DE SOUBRE",
+    "level": "college",
+    "city": "SOUBRE",
+    "location": "554 SOUBRE SOUBRE SOUBRE SOUBRE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-oupoyo",
+    "shortName": "COLLEGE MODERNE D’OUPOYO",
+    "name": "COLLEGE MODERNE D’OUPOYO",
+    "level": "college",
+    "city": "SOUBRE",
+    "location": "555 SOUBRE MEAGUI MEAGUI OUPOYO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-buyo",
+    "shortName": "COLLEGE MODERNE DE BUYO",
+    "name": "COLLEGE MODERNE DE BUYO",
+    "level": "college",
+    "city": "MEAGUI",
+    "location": "556 SOUBRE BUYO BUYO BUYO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-takoreagui",
+    "shortName": "COLLEGE MODERNE DE TAKOREAGUI",
+    "name": "COLLEGE MODERNE DE TAKOREAGUI",
+    "level": "college",
+    "city": "Man",
+    "location": "558 SOUBRE MEAGUI GNAMANDJI TAKOREAGUI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-okrouyo",
+    "shortName": "COLLEGE MODERNE D'OKROUYO",
+    "name": "COLLEGE MODERNE D'OKROUYO",
+    "level": "college",
+    "city": "Man",
+    "location": "559 SOUBRE SOUBRE S/P OKROUYO OKROUYO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-taabo",
+    "shortName": "COLLEGE MODERNE DE TAABO",
+    "name": "COLLEGE MODERNE DE TAABO",
+    "level": "college",
+    "city": "SOUBRE",
+    "location": "560 TIASSALE TAABO TAABO TAABO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gomon",
+    "shortName": "COLLEGE MODERNE DE GOMON",
+    "name": "COLLEGE MODERNE DE GOMON",
+    "level": "college",
+    "city": "TAABO",
+    "location": "561 TIASSALE SIKENSI S/P GOMON GOMON",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kpacobo",
+    "shortName": "COLLEGE MODERNE DE KPACOBO",
+    "name": "COLLEGE MODERNE DE KPACOBO",
+    "level": "college",
+    "city": "SIKENSI",
+    "location": "562 TIASSALE TAABO PACOBO KPACOBO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-katadji",
+    "shortName": "COLLEGE MODERNE DE KATADJI",
+    "name": "COLLEGE MODERNE DE KATADJI",
+    "level": "college",
+    "city": "TAABO",
+    "location": "563 TIASSALE SIKENSI S/P. SIKENSI KATADJI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-taboitien",
+    "shortName": "COLLEGE MODERNE DE TABOITIEN",
+    "name": "COLLEGE MODERNE DE TABOITIEN",
+    "level": "college",
+    "city": "SIKENSI",
+    "location": "564 TIASSALE TIASSALE S/P TIASSALE TABOITIEN",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-morokro",
+    "shortName": "COLLEGE MODERNE MOROKRO",
+    "name": "COLLEGE MODERNE MOROKRO",
+    "level": "college",
+    "city": "TIASSALE",
+    "location": "565 TIASSALE TIASSALE MOROKRO MOROKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-tiassale",
+    "shortName": "COLLEGE MODERNE DE TIASSALE",
+    "name": "COLLEGE MODERNE DE TIASSALE",
+    "level": "college",
+    "city": "TIASSALE",
+    "location": "566 TIASSALE TIASSALE TIASSALE TIASSALE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-binao",
+    "shortName": "COLLEGE MODERNE DE BINAO",
+    "name": "COLLEGE MODERNE DE BINAO",
+    "level": "college",
+    "city": "TIASSALE",
+    "location": "567 TIASSALE TIASSALE Sp. BINAO BINAO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-eticoon",
+    "shortName": "COLLEGE MODERNE DE ETICOON",
+    "name": "COLLEGE MODERNE DE ETICOON",
+    "level": "college",
+    "city": "TIASSALE",
+    "location": "568 TIASSALE TIASSALE TIASSALE ETICOON",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gbolouville",
+    "shortName": "COLLEGE MODERNE DE GBOLOUVILLE",
+    "name": "COLLEGE MODERNE DE GBOLOUVILLE",
+    "level": "college",
+    "city": "TIASSALE",
+    "location": "569 TIASSALE TIASSALE Sp. GBOLOUVILLE GBOLOUVILLE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-niamoue",
+    "shortName": "COLLEGE MODERNE DE NIAMOUE",
+    "name": "COLLEGE MODERNE DE NIAMOUE",
+    "level": "college",
+    "city": "TIASSALE",
+    "location": "570 TIASSALE TIASSALE TIASSALE NIAMOUE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-2-de-morokro",
+    "shortName": "CM 2 DE MOROKRO",
+    "name": "COLLEGE MODERNE 2 DE MOROKRO",
+    "level": "college",
+    "city": "TIASSALE",
+    "location": "571 TIASSALE TIASSALE Sp. MOROKRO MOROKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-taabo-village",
+    "shortName": "COLLEGE MODERNE DE TAABO-VILLAGE",
+    "name": "COLLEGE MODERNE DE TAABO-VILLAGE",
+    "level": "college",
+    "city": "TIASSALE",
+    "location": "572 TIASSALE TAABO Com. TAABO TAABO-VILLAGE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-2-de-tiassale",
+    "shortName": "CM 2 DE TIASSALE",
+    "name": "COLLEGE MODERNE 2 DE TIASSALE",
+    "level": "college",
+    "city": "TAABO",
+    "location": "573 TIASSALE TIASSALE Com. TIASSALE TIASSALE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bakanou",
+    "shortName": "COLLEGE MODERNE DE BAKANOU",
+    "name": "COLLEGE MODERNE DE BAKANOU",
+    "level": "college",
+    "city": "TIASSALE",
+    "location": "574 TIASSALE SIKENSI S/P SIKENSI BAKANOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-ellibou",
+    "shortName": "COLLEGE MODERNE D'ELLIBOU",
+    "name": "COLLEGE MODERNE D'ELLIBOU",
+    "level": "college",
+    "city": "SIKENSI",
+    "location": "575 TIASSALE SIKENSI COM. SIKENSI ELLIBOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-booko",
+    "shortName": "COLLEGE MODERNE DE BOOKO",
+    "name": "COLLEGE MODERNE DE BOOKO",
+    "level": "college",
+    "city": "SIKENSI",
+    "location": "576 TOUBA KORO BOROTOU BOOKO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-borotou-koro",
+    "shortName": "COLLEGE MODERNE DE BOROTOU-KORO",
+    "name": "COLLEGE MODERNE DE BOROTOU-KORO",
+    "level": "college",
+    "city": "KORO",
+    "location": "577 TOUBA KORO KORO BOROTOU-KORO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-koonan",
+    "shortName": "COLLEGE MODERNE DE KOONAN",
+    "name": "COLLEGE MODERNE DE KOONAN",
+    "level": "college",
+    "city": "KORO",
+    "location": "578 TOUBA OUANINOU KOONAN KOONAN",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-borotou",
+    "shortName": "COLLEGE MODERNE DE BOROTOU",
+    "name": "COLLEGE MODERNE DE BOROTOU",
+    "level": "college",
+    "city": "OUANINOU",
+    "location": "579 TOUBA KORO BOROTOU BOROTOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-mahou-sokourala",
+    "shortName": "COLLEGE MODERNE DE MAHOU-SOKOURALA",
+    "name": "COLLEGE MODERNE DE MAHOU-SOKOURALA",
+    "level": "college",
+    "city": "TOUBA",
+    "location": "MAHOU-SOKOURALA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-guinteguela",
+    "shortName": "COLLEGE MODERNE DE GUINTEGUELA",
+    "name": "COLLEGE MODERNE DE GUINTEGUELA",
+    "level": "college",
+    "city": "TOUBA",
+    "location": "GUINTEGUELA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-niokosso",
+    "shortName": "COLLEGE MODERNE DE NIOKOSSO",
+    "name": "COLLEGE MODERNE DE NIOKOSSO",
+    "level": "college",
+    "city": "KORO",
+    "location": "582 TOUBA KORO S/P. NIOKOSSO NIOKOSSO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-gouelo-mandougou",
+    "shortName": "COLLEGE MODERNE DE GOUELO-MANDOUGOU",
+    "name": "COLLEGE MODERNE DE GOUELO-MANDOUGOU",
+    "level": "college",
+    "city": "Man",
+    "location": "GOUELO-MANDOUGOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-ganhoue-sefina",
+    "shortName": "COLLEGE MODERNE DE GANHOUE-SEFINA",
+    "name": "COLLEGE MODERNE DE GANHOUE-SEFINA",
+    "level": "college",
+    "city": "Man",
+    "location": "GANHOUE-SEFINA",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dioman",
+    "shortName": "COLLEGE MODERNE DE DIOMAN",
+    "name": "COLLEGE MODERNE DE DIOMAN",
+    "level": "college",
+    "city": "Man",
+    "location": "586 TOUBA TOUBA S/P. DIOMAN DIOMAN",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-foungbesso",
+    "shortName": "COLLEGE MODERNE DE FOUNGBESSO",
+    "name": "COLLEGE MODERNE DE FOUNGBESSO",
+    "level": "college",
+    "city": "TOUBA",
+    "location": "FOUNGBESSO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-mahandougou",
+    "shortName": "COLLEGE MODERNE DE MAHANDOUGOU",
+    "name": "COLLEGE MODERNE DE MAHANDOUGOU",
+    "level": "college",
+    "city": "TOUBA",
+    "location": "589 TOUBA KORO S/P BOOKO MAHANDOUGOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-lomokankro",
+    "shortName": "COLLEGE MODERNE DE LOMOKANKRO",
+    "name": "COLLEGE MODERNE DE LOMOKANKRO",
+    "level": "college",
+    "city": "Yamoussoukro",
+    "location": "590 YAMOUSSOUKRO TIEBISSOU LOMOKANKRO LOMOKANKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-molonou",
+    "shortName": "COLLEGE MODERNE DE MOLONOU",
+    "name": "COLLEGE MODERNE DE MOLONOU",
+    "level": "college",
+    "city": "Yamoussoukro",
+    "location": "591 YAMOUSSOUKRO TIEBISSOU MOLONOU MOLONOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-yamoussoukro",
+    "shortName": "COLLEGE MODERNE DE YAMOUSSOUKRO",
+    "name": "COLLEGE MODERNE DE YAMOUSSOUKRO",
+    "level": "college",
+    "city": "Yamoussoukro",
+    "location": "592 YAMOUSSOUKRO YAMOUSSOUKRO YAMOUSSOUKRO YAMOUSSOUKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-boli",
+    "shortName": "COLLEGE MODERNE DE BOLI",
+    "name": "COLLEGE MODERNE DE BOLI",
+    "level": "college",
+    "city": "Yamoussoukro",
+    "location": "594 YAMOUSSOUKRO DIDIEVI BOLI BOLI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-n-guyakro",
+    "shortName": "COLLEGE MODERNE DE N'GUYAKRO",
+    "name": "COLLEGE MODERNE DE N'GUYAKRO",
+    "level": "college",
+    "city": "Yamoussoukro",
+    "location": "595 YAMOUSSOUKRO DIDIEVI Didiévi N'GUYAKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-raviart",
+    "shortName": "COLLEGE MODERNE DE RAVIART",
+    "name": "COLLEGE MODERNE DE RAVIART",
+    "level": "college",
+    "city": "Yamoussoukro",
+    "location": "596 YAMOUSSOUKRO DIDIEVI RAVIART RAVIART",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-bonikro",
+    "shortName": "COLLEGE MODERNE DE BONIKRO",
+    "name": "COLLEGE MODERNE DE BONIKRO",
+    "level": "college",
+    "city": "Yamoussoukro",
+    "location": "597 YAMOUSSOUKRO DJEKANOU BONIKRO BONIKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-kongonou",
+    "shortName": "COLLEGE MODERNE DE KONGONOU",
+    "name": "COLLEGE MODERNE DE KONGONOU",
+    "level": "college",
+    "city": "Yamoussoukro",
+    "location": "598 YAMOUSSOUKRO TIEBISSOU TIEBISSOU KONGONOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-yakpabo-sakassou",
+    "shortName": "COLLEGE MODERNE DE YAKPABO-SAKASSOU",
+    "name": "COLLEGE MODERNE DE YAKPABO-SAKASSOU",
+    "level": "college",
+    "city": "Yamoussoukro",
+    "location": "YAKPABO-SAKASSOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-d-abli",
+    "shortName": "COLLEGE MODERNE D’ABLI",
+    "name": "COLLEGE MODERNE D’ABLI",
+    "level": "college",
+    "city": "Yamoussoukro",
+    "location": "600 YAMOUSSOUKRO TOUMODI TOUMODI ABLI",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-duekro",
+    "shortName": "COLLEGE MODERNE DE DUEKRO",
+    "name": "COLLEGE MODERNE DE DUEKRO",
+    "level": "college",
+    "city": "Yamoussoukro",
+    "location": "DUEKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-belle-ville-de-yamoussoukro",
+    "shortName": "CM BELLE VILLE DE YAMOUSSOUK",
+    "name": "COLLEGE MODERNE BELLE VILLE DE YAMOUSSOUKRO",
+    "level": "college",
+    "city": "Yamoussoukro",
+    "location": "YAMOUSSOUKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-dida-kouadiokro",
+    "shortName": "CM  DIDA KOUADIOKRO",
+    "name": "COLLEGE MODERNE DE DIDA KOUADIOKRO",
+    "level": "college",
+    "city": "Yamoussoukro",
+    "location": "DIDA KOUADIOKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-boniankro",
+    "shortName": "COLLEGE MODERNE DE BONIANKRO",
+    "name": "COLLEGE MODERNE DE BONIANKRO",
+    "level": "college",
+    "city": "Yamoussoukro",
+    "location": "BONIANKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-labokro",
+    "shortName": "COLLEGE MODERNE DE LABOKRO",
+    "name": "COLLEGE MODERNE DE LABOKRO",
+    "level": "college",
+    "city": "Yamoussoukro",
+    "location": "LABOKRO",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-moronou",
+    "shortName": "COLLEGE MODERNE DE MORONOU",
+    "name": "COLLEGE MODERNE DE MORONOU",
+    "level": "college",
+    "city": "Yamoussoukro",
+    "location": "606 YAMOUSSOUKRO TOUMODI Sp. KPOUEBO MORONOU",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-n-gban-kasse",
+    "shortName": "CM  N'GBAN KASSE",
+    "name": "COLLEGE MODERNE DE N'GBAN KASSE",
+    "level": "college",
+    "city": "Yamoussoukro",
+    "location": "607 YAMOUSSOUKRO DIDIEVI Sp. RAVIART N'GBAN KASSE",
+    "url": null,
+    "source": "mena-2011-2024"
+  },
+  {
+    "id": "college-moderne-de-djamalaboo",
+    "shortName": "COLLEGE MODERNE DE DJAMALABOO",
+    "name": "COLLEGE MODERNE DE DJAMALABOO",
+    "level": "college",
+    "city": "Yamoussoukro",
+    "location": "DJAMALABO",
+    "url": null,
+    "source": "mena-2011-2024"
+  }
+]
